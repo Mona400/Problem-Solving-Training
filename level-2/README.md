@@ -6,7 +6,7 @@ Problem Solving Training for computer science students.
 <br><br><br><br>
 
 <br>
-<a href="/level-2/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.png"></img></a>
+<a href="/level-2/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/agenda.png"></img></a>
 
 ## Table of Contents
   * [Prerequisite Knowledge](#prerequisite-knowledge)
@@ -24,7 +24,7 @@ Problem Solving Training for computer science students.
 
 This level simply consists of 20 sheets, 2 sheets on HackerRank Online Judge, 6 sheets on Codeforces Online Judge, 6 sheets on LeetCode Online Judge, 2 sheets on AtCoder Online Judge, 4 sheets on HackerEarth Online Judge.
 
-## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/Computer-Science-Trainings/blob/main/Data-Structures-and-Algorithms/README.md)
+## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/Computer-Science-Trainings/blob/master/Data-Structures-and-Algorithms/README.md)
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms Analysis like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
 
 <a href="/level-2/README.md/#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>

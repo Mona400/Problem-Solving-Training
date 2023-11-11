@@ -5,7 +5,7 @@
 ## sliding window maximum
 Problem Link: https://leetcode.com/problems/sliding-window-maximum
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -27,7 +27,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -57,7 +57,7 @@ public:
 ## minimum size subarray sum
 Problem Link: https://leetcode.com/problems/minimum-size-subarray-sum
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -75,7 +75,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -102,7 +102,7 @@ public:
 ## longest substring without repeating characters
 Problem Link: https://leetcode.com/problems/longest-substring-without-repeating-characters
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -121,7 +121,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -149,7 +149,7 @@ public:
 ## substring with concatenation of all words
 Problem Link: https://leetcode.com/problems/substring-with-concatenation-of-all-words
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -183,7 +183,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -228,7 +228,7 @@ public:
 ## minimum window substring
 Problem Link: https://leetcode.com/problems/minimum-window-substring
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -256,7 +256,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -293,7 +293,7 @@ public:
 ## backspace string compare
 Problem Link: https://leetcode.com/problems/backspace-string-compare
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -329,7 +329,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -377,7 +377,7 @@ public:
 ## task scheduler
 Problem Link: https://leetcode.com/problems/task-scheduler
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -397,7 +397,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -426,7 +426,7 @@ public:
 ## permutation in string
 Problem Link: https://leetcode.com/problems/permutation-in-string
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -462,7 +462,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -508,7 +508,7 @@ public:
 ## longest repeating character replacement
 Problem Link: https://leetcode.com/problems/longest-repeating-character-replacement
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -528,7 +528,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -557,7 +557,7 @@ public:
 ## minimum number of k consecutive bit flips
 Problem Link: https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -580,7 +580,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -611,7 +611,7 @@ public:
 ## maximum frequency stack
 Problem Link: https://leetcode.com/problems/maximum-frequency-stack
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -640,7 +640,7 @@ class FreqStack:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -674,7 +674,7 @@ public:
 ## sliding window median
 Problem Link: https://leetcode.com/problems/sliding-window-median
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -702,7 +702,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 

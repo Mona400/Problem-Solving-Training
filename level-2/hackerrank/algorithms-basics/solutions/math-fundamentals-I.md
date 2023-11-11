@@ -5,7 +5,7 @@
 ## Find the Point
 Problem Link: https://hackerrank.com/challenges/find-point/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -15,7 +15,7 @@ def findPoint(px, py, qx, qy):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -30,7 +30,7 @@ vector<int> findPoint(int px, int py, int qx, int qy) {
 ## Maximum Draws
 Problem Link: https://hackerrank.com/challenges/maximum-draws/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -40,7 +40,7 @@ def maximumDraws(n):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -55,7 +55,7 @@ int maximumDraws(int n) {
 ## Handshake
 Problem Link: https://hackerrank.com/challenges/handshake/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -65,7 +65,7 @@ def handshake(n):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -80,7 +80,7 @@ int handshake(int n) {
 ## Minimum Height Triangle
 Problem Link: https://hackerrank.com/challenges/lowest-triangle/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -90,7 +90,7 @@ def lowestTriangle(base, area):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -105,7 +105,7 @@ int lowestTriangle(int base, int area) {
 ## Army Game
 Problem Link: https://hackerrank.com/challenges/game-with-cells/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -115,7 +115,7 @@ def gameWithCells(n, m):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -130,7 +130,7 @@ int gameWithCells(int n, int m) {
 ## Leonardo's Prime Factors
 Problem Link: https://hackerrank.com/challenges/leonardo-and-prime/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -146,7 +146,7 @@ def primeCount(n):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -168,7 +168,7 @@ int primeCount(long n) {
 ## Connecting Towns
 Problem Link: https://hackerrank.com/challenges/connecting-towns/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -181,7 +181,7 @@ def connectingTowns(n, routes):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -199,7 +199,7 @@ int connectingTowns(int n, vector<int> &routes) {
 ## Cutting Paper Squares
 Problem Link: https://hackerrank.com/challenges/p1-paper-cutting/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -209,7 +209,7 @@ def solve(n, m):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -224,7 +224,7 @@ long solve(int n, int m) {
 ## Sherlock and Moving Tiles
 Problem Link: https://hackerrank.com/challenges/sherlock-and-moving-tiles/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -233,7 +233,7 @@ Problem Link: https://hackerrank.com/challenges/sherlock-and-moving-tiles/proble
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -246,7 +246,7 @@ Problem Link: https://hackerrank.com/challenges/sherlock-and-moving-tiles/proble
 ## Best Divisor
 Problem Link: https://hackerrank.com/challenges/best-divisor/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -272,7 +272,7 @@ def divisors(n):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -308,7 +308,7 @@ int divisors(int n) {
 ## Restaurant
 Problem Link: https://hackerrank.com/challenges/restaurant/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -319,7 +319,7 @@ def restaurant(l, b):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -335,7 +335,7 @@ int restaurant(int l, int b) {
 ## Reverse Game
 Problem Link: https://hackerrank.com/challenges/reverse-game/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -344,7 +344,7 @@ Problem Link: https://hackerrank.com/challenges/reverse-game/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -357,7 +357,7 @@ Problem Link: https://hackerrank.com/challenges/reverse-game/problem
 ## Strange Grid Again
 Problem Link: https://hackerrank.com/challenges/strange-grid/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -366,7 +366,7 @@ Problem Link: https://hackerrank.com/challenges/strange-grid/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -379,7 +379,7 @@ Problem Link: https://hackerrank.com/challenges/strange-grid/problem
 ## Constructing a Number
 Problem Link: https://hackerrank.com/challenges/constructing-a-number/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -392,7 +392,7 @@ def canConstruct(a):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -411,7 +411,7 @@ string canConstruct(vector<int> &a) {
 ## Sherlock and GCD
 Problem Link: https://hackerrank.com/challenges/sherlock-and-gcd/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -426,7 +426,7 @@ def solve(a):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -447,7 +447,7 @@ string solve(vector<int> &a) {
 ## Primitive Problem
 Problem Link: https://hackerrank.com/challenges/primitive-problem/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -456,7 +456,7 @@ Problem Link: https://hackerrank.com/challenges/primitive-problem/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 

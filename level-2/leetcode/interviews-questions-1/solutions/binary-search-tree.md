@@ -5,7 +5,7 @@
 ## same tree
 Problem Link: https://leetcode.com/problems/same-tree
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -25,7 +25,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -52,7 +52,7 @@ public:
 ## path sum
 Problem Link: https://leetcode.com/problems/path-sum
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -76,7 +76,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -107,7 +107,7 @@ public:
 ## populating next right pointers in each node ii
 Problem Link: https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -133,7 +133,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -169,7 +169,7 @@ public:
 ## average of levels in binary tree
 Problem Link: https://leetcode.com/problems/average-of-levels-in-binary-tree
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -193,7 +193,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -230,7 +230,7 @@ public:
 ## binary tree zigzag level order traversal
 Problem Link: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -260,7 +260,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -301,7 +301,7 @@ public:
 ## maximum depth of binary tree
 Problem Link: https://leetcode.com/problems/maximum-depth-of-binary-tree
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -317,7 +317,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -340,7 +340,7 @@ public:
 ## invert binary tree
 Problem Link: https://leetcode.com/problems/invert-binary-tree
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -359,7 +359,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -387,7 +387,7 @@ public:
 ## diameter of binary tree
 Problem Link: https://leetcode.com/problems/diameter-of-binary-tree
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -409,7 +409,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -438,7 +438,7 @@ public:
 ## validate binary search tree
 Problem Link: https://leetcode.com/problems/validate-binary-search-tree
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -456,7 +456,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -481,7 +481,7 @@ public:
 ## binary tree level order traversal
 Problem Link: https://leetcode.com/problems/binary-tree-level-order-traversal
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -507,7 +507,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -543,7 +543,7 @@ public:
 ## binary tree right side view
 Problem Link: https://leetcode.com/problems/binary-tree-right-side-view
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -569,7 +569,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -605,7 +605,7 @@ public:
 ## kth smallest element in a bst
 Problem Link: https://leetcode.com/problems/kth-smallest-element-in-a-bst
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -627,7 +627,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -659,7 +659,7 @@ public:
 ## lowest common ancestor of a binary tree
 Problem Link: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -683,7 +683,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -714,7 +714,7 @@ public:
 ## binary tree maximum path sum
 Problem Link: https://leetcode.com/problems/binary-tree-maximum-path-sum
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -736,7 +736,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -766,7 +766,7 @@ public:
 ## search a 2d matrix
 Problem Link: https://leetcode.com/problems/search-a-2d-matrix
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -788,7 +788,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -818,7 +818,7 @@ public:
 ## minimum depth of binary tree
 Problem Link: https://leetcode.com/problems/minimum-depth-of-binary-tree
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -838,7 +838,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -865,7 +865,7 @@ public:
 ## merge two binary trees
 Problem Link: https://leetcode.com/problems/merge-two-binary-trees
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -889,7 +889,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -920,7 +920,7 @@ public:
 ## lowest common ancestor of a binary search tree
 Problem Link: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -942,7 +942,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -971,7 +971,7 @@ public:
 ## subtree of another tree
 Problem Link: https://leetcode.com/problems/subtree-of-another-tree
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -998,7 +998,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -1032,7 +1032,7 @@ public:
 ## search in rotated sorted array ii
 Problem Link: https://leetcode.com/problems/search-in-rotated-sorted-array-ii
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -1060,7 +1060,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -1098,7 +1098,7 @@ public:
 ## find k closest elements
 Problem Link: https://leetcode.com/problems/find-k-closest-elements
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -1116,7 +1116,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -1143,7 +1143,7 @@ public:
 ## populating next right pointers in each node
 Problem Link: https://leetcode.com/problems/populating-next-right-pointers-in-each-node
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -1170,7 +1170,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -1209,7 +1209,7 @@ public:
 ## binary tree level order traversal ii
 Problem Link: https://leetcode.com/problems/binary-tree-level-order-traversal-ii
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -1236,7 +1236,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -1273,7 +1273,7 @@ public:
 ## all nodes distance k in binary tree
 Problem Link: https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -1311,7 +1311,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -1362,7 +1362,7 @@ public:
 ## path sum ii
 Problem Link: https://leetcode.com/problems/path-sum-ii
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -1389,7 +1389,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -1431,7 +1431,7 @@ public:
 ## peak index in a mountain array
 Problem Link: https://leetcode.com/problems/peak-index-in-a-mountain-array
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -1449,7 +1449,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 

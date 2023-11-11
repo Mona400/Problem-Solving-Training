@@ -5,7 +5,7 @@
 ## longest consecutive sequence
 Problem Link: https://leetcode.com/problems/longest-consecutive-sequence
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -25,7 +25,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -53,7 +53,7 @@ public:
 ## merge intervals
 Problem Link: https://leetcode.com/problems/merge-intervals
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -71,7 +71,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -99,7 +99,7 @@ public:
 ## insert interval
 Problem Link: https://leetcode.com/problems/insert-interval
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -123,7 +123,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -157,7 +157,7 @@ public:
 ## minimum number of arrows to burst balloons
 Problem Link: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -177,7 +177,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -207,7 +207,7 @@ public:
 ## word search ii
 Problem Link: https://leetcode.com/problems/word-search-ii
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -275,7 +275,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -368,7 +368,7 @@ public:
 ## implement trie prefix tree
 Problem Link: https://leetcode.com/problems/implement-trie-prefix-tree
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -411,7 +411,7 @@ class Trie:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -469,7 +469,7 @@ public:
 ## two sum
 Problem Link: https://leetcode.com/problems/two-sum
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -491,7 +491,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -521,7 +521,7 @@ public:
 ## contains duplicate
 Problem Link: https://leetcode.com/problems/contains-duplicate
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -532,7 +532,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -551,7 +551,7 @@ public:
 ## longest word in dictionary
 Problem Link: https://leetcode.com/problems/longest-word-in-dictionary
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -610,7 +610,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -688,7 +688,7 @@ public:
 ## smallest range covering elements from k lists
 Problem Link: https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -714,7 +714,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -756,7 +756,7 @@ public:
 ## palindrome pairs
 Problem Link: https://leetcode.com/problems/palindrome-pairs
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -793,7 +793,7 @@ class Solution:
 ```
 
 </details>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 

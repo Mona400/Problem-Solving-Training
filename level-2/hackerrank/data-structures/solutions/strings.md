@@ -5,7 +5,7 @@
 ## Super Reduced String
 Problem Link: https://hackerrank.com/challenges/reduced-string/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -22,7 +22,7 @@ def superReducedString(s):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -47,7 +47,7 @@ string superReducedString(string s) {
 ## CamelCase
 Problem Link: https://hackerrank.com/challenges/camelcase/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -62,7 +62,7 @@ def camelcase(s):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -82,7 +82,7 @@ int camelcase(string s) {
 ## Strong Password
 Problem Link: https://hackerrank.com/challenges/strong-password/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -102,7 +102,7 @@ def minimumNumber(n, password):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -132,7 +132,7 @@ int minimumNumber(int n, string password) {
 ## Two Characters
 Problem Link: https://hackerrank.com/challenges/two-characters/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -165,7 +165,7 @@ def alternate(s):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -213,7 +213,7 @@ int alternate(string s) {
 ## Caesar Cipher
 Problem Link: https://hackerrank.com/challenges/caesar-cipher-1/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -242,7 +242,7 @@ def caesarCipher(s, k):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -278,7 +278,7 @@ string caesarCipher(string s, int k) {
 ## Mars Exploration
 Problem Link: https://hackerrank.com/challenges/mars-exploration/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -296,7 +296,7 @@ def marsExploration(s):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -320,7 +320,7 @@ int marsExploration(string s) {
 ## HackerRank in a String!
 Problem Link: https://hackerrank.com/challenges/hackerrank-in-a-string/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -336,7 +336,7 @@ def hackerrankInString(s):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -358,7 +358,7 @@ string hackerrankInString(string s) {
 ## Pangrams
 Problem Link: https://hackerrank.com/challenges/pangrams/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -376,7 +376,7 @@ def pangrams(s):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -400,7 +400,7 @@ string pangrams(string s) {
 ## Weighted Uniform Strings
 Problem Link: https://hackerrank.com/challenges/weighted-uniform-string/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -428,7 +428,7 @@ def weightedUniformStrings(s, queries):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -463,7 +463,7 @@ vector<string> weightedUniformStrings(string s, vector<int> &queries) {
 ## Separate the Numbers
 Problem Link: https://hackerrank.com/challenges/separate-the-numbers/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -488,7 +488,7 @@ def separateNumbers(s):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -521,7 +521,7 @@ string separateNumbers(string s) {
 ## Alternating Characters
 Problem Link: https://hackerrank.com/challenges/alternating-characters/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -535,7 +535,7 @@ def alternatingCharacters(s):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -554,7 +554,7 @@ int alternatingCharacters(string s) {
 ## Beautiful Binary String
 Problem Link: https://hackerrank.com/challenges/beautiful-binary-string/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -570,7 +570,7 @@ def beautifulBinaryString(b):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -593,7 +593,7 @@ int beautifulBinaryString(string b) {
 ## The Love-Letter Mystery
 Problem Link: https://hackerrank.com/challenges/the-love-letter-mystery/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -607,7 +607,7 @@ def theLoveLetterMystery(s):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -626,7 +626,7 @@ int theLoveLetterMystery(string s) {
 ## Palindrome Index
 Problem Link: https://hackerrank.com/challenges/palindrome-index/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -643,7 +643,7 @@ def palindromeIndex(s):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -669,7 +669,7 @@ int palindromeIndex(string s) {
 ## Anagram
 Problem Link: https://hackerrank.com/challenges/anagram/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -690,7 +690,7 @@ def anagram(s):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -717,7 +717,7 @@ int anagram(string s) {
 ## Making Anagrams
 Problem Link: https://hackerrank.com/challenges/making-anagrams/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -732,7 +732,7 @@ def makingAnagrams(s1, s2):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -767,7 +767,7 @@ int makingAnagrams(string s1, string s2) {
 ## Game of Thrones - I
 Problem Link: https://hackerrank.com/challenges/game-of-thrones/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -779,7 +779,7 @@ def gameOfThrones(s):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -806,7 +806,7 @@ string gameOfThrones(string s) {
 ## Two Strings
 Problem Link: https://hackerrank.com/challenges/two-strings/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -816,7 +816,7 @@ def twoStrings(s1, s2):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -836,7 +836,7 @@ string twoStrings(string s1, string s2) {
 ## String Construction
 Problem Link: https://hackerrank.com/challenges/string-construction/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -846,7 +846,7 @@ def stringConstruction(s):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -861,7 +861,7 @@ int stringConstruction(string s) {
 ## Funny String
 Problem Link: https://hackerrank.com/challenges/funny-string/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -877,7 +877,7 @@ def funnyString(s):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -900,7 +900,7 @@ string funnyString(string s) {
 ## Gemstones
 Problem Link: https://hackerrank.com/challenges/gem-stones/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -913,7 +913,7 @@ def gemstones(arr):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 

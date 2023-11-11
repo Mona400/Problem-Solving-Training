@@ -5,7 +5,7 @@
 ## Grading Students
 Problem Link: https://hackerrank.com/challenges/grading/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -22,7 +22,7 @@ def gradingStudents(grades):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -45,7 +45,7 @@ vector<int> gradingStudents(vector<int> &grades) {
 ## Apple and Orange
 Problem Link: https://hackerrank.com/challenges/apple-and-orange/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -62,7 +62,7 @@ def countApplesAndOranges(s, t, a, b, apples, oranges):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -86,7 +86,7 @@ void countApplesAndOranges(int s, int t, int a, int b, vector<int> &apples, vect
 ## Number Line Jumps
 Problem Link: https://hackerrank.com/challenges/kangaroo/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -107,7 +107,7 @@ def kangaroo(x1, v1, x2, v2):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -134,7 +134,7 @@ string kangaroo(int x1, int v1, int x2, int v2) {
 ## Between Two Sets
 Problem Link: https://hackerrank.com/challenges/between-two-sets/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -155,7 +155,7 @@ def getTotalX(a, b):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -186,7 +186,7 @@ int getTotalX(vector<int> &a, vector<int> &b) {
 ## Breaking the Records
 Problem Link: https://hackerrank.com/challenges/breaking-best-and-worst-records/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -205,7 +205,7 @@ def breakingRecords(scores):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -232,7 +232,7 @@ vector<int> breakingRecords(vector<int> &scores) {
 ## Subarray Division
 Problem Link: https://hackerrank.com/challenges/the-birthday-bar/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -249,7 +249,7 @@ def birthday(s, d, m):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -272,7 +272,7 @@ int birthday(vector<int> &s, int d, int m) {
 ## Divisible Sum Pairs
 Problem Link: https://hackerrank.com/challenges/divisible-sum-pairs/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -287,7 +287,7 @@ def divisibleSumPairs(n, k, arr):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -309,7 +309,7 @@ int divisibleSumPairs(int n, int k, vector<int> &arr) {
 ## Migratory Birds
 Problem Link: https://hackerrank.com/challenges/migratory-birds/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -322,7 +322,7 @@ def migratoryBirds(arr):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -341,7 +341,7 @@ int migratoryBirds(vector<int> &arr) {
 ## Day of the Programmer
 Problem Link: https://hackerrank.com/challenges/day-of-the-programmer/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -357,7 +357,7 @@ def dayOfProgrammer(year):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -378,7 +378,7 @@ string dayOfProgrammer(int year) {
 ## Bill Division
 Problem Link: https://hackerrank.com/challenges/bon-appetit/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -397,7 +397,7 @@ def bonAppetit(bill, k, b):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -422,7 +422,7 @@ void bonAppetit(vector<int> &bill, int k, int b) {
 ## Sales by Match
 Problem Link: https://hackerrank.com/challenges/sock-merchant/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -436,7 +436,7 @@ def sockMerchant(n, arr):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -455,7 +455,7 @@ int sockMerchant(int n, vector<int> &arr) {
 ## Drawing Book
 Problem Link: https://hackerrank.com/challenges/drawing-book/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -465,7 +465,7 @@ def pageCount(n, p):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -480,7 +480,7 @@ int pageCount(int n, int p) {
 ## Counting Valleys
 Problem Link: https://hackerrank.com/challenges/counting-valleys/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -498,7 +498,7 @@ def countingValleys(steps, path):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -522,7 +522,7 @@ int countingValleys(int steps, string path) {
 ## Electronics Shop
 Problem Link: https://hackerrank.com/challenges/electronics-shop/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -544,7 +544,7 @@ def getMoneySpent(keyboards, drives, b):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -573,7 +573,7 @@ int getMoneySpent(vector<int> &keyboards, vector<int> &drives, int b) {
 ## Cats and a Mouse
 Problem Link: https://hackerrank.com/challenges/cats-and-a-mouse/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -590,7 +590,7 @@ def catAndMouse(x, y, z):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -612,7 +612,7 @@ string catAndMouse(int x, int y, int z) {
 ## The Hurdle Race
 Problem Link: https://hackerrank.com/challenges/the-hurdle-race/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -622,7 +622,7 @@ def hurdleRace(k, height):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -638,7 +638,7 @@ int hurdleRace(int k, vector<int> &height) {
 ## Designer PDF Viewer
 Problem Link: https://hackerrank.com/challenges/designer-pdf-viewer/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -651,7 +651,7 @@ def designerPdfViewer(h, word):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -669,7 +669,7 @@ int designerPdfViewer(vector<int> &h, string word) {
 ## Utopian Tree
 Problem Link: https://hackerrank.com/challenges/utopian-tree/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -685,7 +685,7 @@ def utopianTree(n):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -707,7 +707,7 @@ int utopianTree(int n) {
 ## Angry Professor
 Problem Link: https://hackerrank.com/challenges/angry-professor/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -720,7 +720,7 @@ def angryProfessor(k, a):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -738,7 +738,7 @@ string angryProfessor(int k, vector<int> &a) {
 ## Minimum Distances
 Problem Link: https://hackerrank.com/challenges/minimum-distances/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -756,7 +756,7 @@ def minimumDistances(a):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 

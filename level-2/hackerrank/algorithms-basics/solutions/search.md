@@ -5,7 +5,7 @@
 ## Ice Cream Parlor
 Problem Link: https://hackerrank.com/challenges/icecream-parlor/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -19,7 +19,7 @@ def icecreamParlor(m, arr):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -40,7 +40,7 @@ vector<int> icecreamParlor(int m, vector<int> &arr) {
 ## Missing Numbers
 Problem Link: https://hackerrank.com/challenges/missing-numbers/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -57,7 +57,7 @@ def missingNumbers(arr, brr):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -84,7 +84,7 @@ vector<int> missingNumbers(vector<int> &arr, vector<int> &brr) {
 ## Sherlock and Array
 Problem Link: https://hackerrank.com/challenges/sherlock-and-array/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -101,7 +101,7 @@ def balancedSums(arr):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -124,7 +124,7 @@ string balancedSums(vector<int> &arr) {
 ## Hackerland Radio Transmitters
 Problem Link: https://hackerrank.com/challenges/hackerland-radio-transmitters/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -161,7 +161,7 @@ def hackerlandRadioTransmitters(x, k):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -209,7 +209,7 @@ int hackerlandRadioTransmitters(vector<int> &x, int k) {
 ## Gridland Metro
 Problem Link: https://hackerrank.com/challenges/gridland-metro/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -250,7 +250,7 @@ def gridlandMetro(n, m, k, track):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -297,7 +297,7 @@ long long gridlandMetro(int n, int m, int k, vector<vector<int>> track) {
 ## KnightL on a Chessboard
 Problem Link: https://hackerrank.com/challenges/knightl-on-chessboard/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -335,7 +335,7 @@ def knightlOnAChessboard(n):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -384,7 +384,7 @@ vector<vector<int>> knightlOnAChessboard(int n) {
 ## Minimum Loss
 Problem Link: https://hackerrank.com/challenges/minimum-loss/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -402,7 +402,7 @@ def minimumLoss(price):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -425,7 +425,7 @@ int minimumLoss(vector<long> price) {
 ## Pairs
 Problem Link: https://hackerrank.com/challenges/pairs/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -440,7 +440,7 @@ def pairs(k, arr):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -460,7 +460,7 @@ int pairs(int k, vector<int> &arr) {
 ## Connected Cells in a Grid
 Problem Link: https://hackerrank.com/challenges/connected-cell-in-a-grid/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -488,7 +488,7 @@ def connectedCell(matrix):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -522,7 +522,7 @@ int connectedCell(vector<vector<int>> matrix) {
 ## Short Palindrome
 Problem Link: https://hackerrank.com/challenges/short-palindrome/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -544,7 +544,7 @@ def shortPalindrome(s):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -573,7 +573,7 @@ int shortPalindrome(string s) {
 ## Count Luck
 Problem Link: https://hackerrank.com/challenges/count-luck/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -617,7 +617,7 @@ def countLuck(matrix, k):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -674,7 +674,7 @@ string countLuck(vector<string> matrix, int k) {
 ## Cut the Tree
 Problem Link: https://hackerrank.com/challenges/cut-the-tree/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -683,7 +683,7 @@ Problem Link: https://hackerrank.com/challenges/cut-the-tree/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -696,7 +696,7 @@ Problem Link: https://hackerrank.com/challenges/cut-the-tree/problem
 ## Gena Playing Hanoi
 Problem Link: https://hackerrank.com/challenges/gena/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -705,7 +705,7 @@ Problem Link: https://hackerrank.com/challenges/gena/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -718,7 +718,7 @@ Problem Link: https://hackerrank.com/challenges/gena/problem
 ## Beautiful Quadruples
 Problem Link: https://hackerrank.com/challenges/xor-quadruples/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -744,7 +744,7 @@ def beautifulQuadruples(a, b, c, d):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -780,7 +780,7 @@ long long beautifulQuadruples(int a, int b, int c, int d) {
 ## Red Knight's Shortest Path
 Problem Link: https://hackerrank.com/challenges/red-knights-shortest-path/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -816,7 +816,7 @@ def printShortestPath(n, i_start, j_start, i_end, j_end):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -865,7 +865,7 @@ string printShortestPath(int n, int i_start, int j_start, int i_end, int j_end) 
 ## Maximum Subarray Sum
 Problem Link: https://hackerrank.com/challenges/maximum-subarray-sum/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -874,7 +874,7 @@ Problem Link: https://hackerrank.com/challenges/maximum-subarray-sum/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -887,7 +887,7 @@ Problem Link: https://hackerrank.com/challenges/maximum-subarray-sum/problem
 ## Maximizing Mission Points
 Problem Link: https://hackerrank.com/challenges/maximizing-mission-points/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -896,7 +896,7 @@ Problem Link: https://hackerrank.com/challenges/maximizing-mission-points/proble
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -909,7 +909,7 @@ Problem Link: https://hackerrank.com/challenges/maximizing-mission-points/proble
 ## Making Candies
 Problem Link: https://hackerrank.com/challenges/making-candies/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -918,7 +918,7 @@ Problem Link: https://hackerrank.com/challenges/making-candies/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -931,7 +931,7 @@ Problem Link: https://hackerrank.com/challenges/making-candies/problem
 ## Bike Racers
 Problem Link: https://hackerrank.com/challenges/bike-racers/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -940,7 +940,7 @@ Problem Link: https://hackerrank.com/challenges/bike-racers/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -953,7 +953,7 @@ Problem Link: https://hackerrank.com/challenges/bike-racers/problem
 ## Absolute Element Sums
 Problem Link: https://hackerrank.com/challenges/playing-with-numbers/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -962,7 +962,7 @@ Problem Link: https://hackerrank.com/challenges/playing-with-numbers/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 

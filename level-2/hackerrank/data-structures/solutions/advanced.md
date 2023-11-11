@@ -5,7 +5,7 @@
 ## Kindergarten Adventures
 Problem Link: https://hackerrank.com/challenges/kindergarten-adventures/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -28,7 +28,7 @@ def solve(t):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -58,7 +58,7 @@ int solve(vector<int> &t) {
 ## Mr. X and His Shots
 Problem Link: https://hackerrank.com/challenges/x-and-his-shots/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -67,7 +67,7 @@ Problem Link: https://hackerrank.com/challenges/x-and-his-shots/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -80,7 +80,7 @@ Problem Link: https://hackerrank.com/challenges/x-and-his-shots/problem
 ## Jim and the Skyscrapers
 Problem Link: https://hackerrank.com/challenges/jim-and-the-skyscrapers/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -113,7 +113,7 @@ def solve(arr):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -154,7 +154,7 @@ long solve(vector<int> &arr) {
 ## Find Maximum Index Product
 Problem Link: https://hackerrank.com/challenges/find-maximum-index-product/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -185,7 +185,7 @@ def solve(arr):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -224,7 +224,7 @@ long solve(vector<int> &arr) {
 ## Cube Summation
 Problem Link: https://hackerrank.com/challenges/cube-summation/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -255,7 +255,7 @@ def cubeSum(n, operations):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -313,7 +313,7 @@ vector<long> cubeSum(int n, vector<string> &operations) {
 ## Direct Connections
 Problem Link: https://hackerrank.com/challenges/direct-connections/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -322,7 +322,7 @@ Problem Link: https://hackerrank.com/challenges/direct-connections/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -335,7 +335,7 @@ Problem Link: https://hackerrank.com/challenges/direct-connections/problem
 ## Palindromic Subsets
 Problem Link: https://hackerrank.com/challenges/palindromic-subsets/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -344,7 +344,7 @@ Problem Link: https://hackerrank.com/challenges/palindromic-subsets/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -357,7 +357,7 @@ Problem Link: https://hackerrank.com/challenges/palindromic-subsets/problem
 ## Polynomial Division
 Problem Link: https://hackerrank.com/challenges/polynomial-division/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -366,7 +366,7 @@ Problem Link: https://hackerrank.com/challenges/polynomial-division/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -379,7 +379,7 @@ Problem Link: https://hackerrank.com/challenges/polynomial-division/problem
 ## Costly Intervals
 Problem Link: https://hackerrank.com/challenges/costly-intervals/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -388,7 +388,7 @@ Problem Link: https://hackerrank.com/challenges/costly-intervals/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -401,7 +401,7 @@ Problem Link: https://hackerrank.com/challenges/costly-intervals/problem
 ## The Strange Function
 Problem Link: https://hackerrank.com/challenges/the-strange-function/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -410,7 +410,7 @@ Problem Link: https://hackerrank.com/challenges/the-strange-function/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -423,7 +423,7 @@ Problem Link: https://hackerrank.com/challenges/the-strange-function/problem
 ## Lazy White Falcon
 Problem Link: https://hackerrank.com/challenges/lazy-white-falcon/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -432,7 +432,7 @@ Problem Link: https://hackerrank.com/challenges/lazy-white-falcon/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -445,7 +445,7 @@ Problem Link: https://hackerrank.com/challenges/lazy-white-falcon/problem
 ## Heavy Light White Falcon
 Problem Link: https://hackerrank.com/challenges/heavy-light-white-falcon/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -454,7 +454,7 @@ Problem Link: https://hackerrank.com/challenges/heavy-light-white-falcon/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -467,7 +467,7 @@ Problem Link: https://hackerrank.com/challenges/heavy-light-white-falcon/problem
 ## Heavy Light 2 White Falcon
 Problem Link: https://hackerrank.com/challenges/heavy-light-2-white-falcon/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -476,7 +476,7 @@ Problem Link: https://hackerrank.com/challenges/heavy-light-2-white-falcon/probl
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -489,7 +489,7 @@ Problem Link: https://hackerrank.com/challenges/heavy-light-2-white-falcon/probl
 ## Burger Happiness
 Problem Link: https://hackerrank.com/challenges/burger-happiness/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -498,7 +498,7 @@ Problem Link: https://hackerrank.com/challenges/burger-happiness/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -511,7 +511,7 @@ Problem Link: https://hackerrank.com/challenges/burger-happiness/problem
 ## Roy and alpha-beta trees
 Problem Link: https://hackerrank.com/challenges/roy-and-alpha-beta-trees/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -520,7 +520,7 @@ Problem Link: https://hackerrank.com/challenges/roy-and-alpha-beta-trees/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -533,7 +533,7 @@ Problem Link: https://hackerrank.com/challenges/roy-and-alpha-beta-trees/problem
 ## Coloring Tree
 Problem Link: https://hackerrank.com/challenges/coloring-tree/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -542,7 +542,7 @@ Problem Link: https://hackerrank.com/challenges/coloring-tree/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -555,7 +555,7 @@ Problem Link: https://hackerrank.com/challenges/coloring-tree/problem
 ## Recalling Early Days GP with Trees
 Problem Link: https://hackerrank.com/challenges/recalling-early-days-gp-with-trees/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -564,7 +564,7 @@ Problem Link: https://hackerrank.com/challenges/recalling-early-days-gp-with-tre
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -577,7 +577,7 @@ Problem Link: https://hackerrank.com/challenges/recalling-early-days-gp-with-tre
 ## White Falcon And Tree
 Problem Link: https://hackerrank.com/challenges/white-falcon-and-tree/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -586,7 +586,7 @@ Problem Link: https://hackerrank.com/challenges/white-falcon-and-tree/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -599,7 +599,7 @@ Problem Link: https://hackerrank.com/challenges/white-falcon-and-tree/problem
 ## Jaggu Playing with Balloons
 Problem Link: https://hackerrank.com/challenges/jagia-playing-with-numbers/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -608,7 +608,7 @@ Problem Link: https://hackerrank.com/challenges/jagia-playing-with-numbers/probl
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -621,7 +621,7 @@ Problem Link: https://hackerrank.com/challenges/jagia-playing-with-numbers/probl
 ## Two Array Problem
 Problem Link: https://hackerrank.com/challenges/weird-queries/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -630,7 +630,7 @@ Problem Link: https://hackerrank.com/challenges/weird-queries/problem
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 

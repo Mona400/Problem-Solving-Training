@@ -5,7 +5,7 @@
 ## Beautiful Days at the Movies
 Problem Link: https://hackerrank.com/challenges/beautiful-days-at-the-movies/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -28,7 +28,7 @@ def beautifulDays(i, j, k):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -58,7 +58,7 @@ int beautifulDays(int i, int j, int k) {
 ## Viral Advertising
 Problem Link: https://hackerrank.com/challenges/strange-advertising/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -72,7 +72,7 @@ def viralAdvertising(n):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -92,7 +92,7 @@ int viralAdvertising(int n) {
 ## Save the Prisoner!
 Problem Link: https://hackerrank.com/challenges/save-the-prisoner/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -103,7 +103,7 @@ def saveThePrisoner(n, m, s):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -119,7 +119,7 @@ int saveThePrisoner(int n, int m, int s) {
 ## Circular Array Rotation
 Problem Link: https://hackerrank.com/challenges/circular-array-rotation/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -134,7 +134,7 @@ def circularArrayRotation(a, k, queries):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -155,7 +155,7 @@ vector<int> circularArrayRotation(vector<int> &a, int k, vector<int> &queries) {
 ## Sequence Equation
 Problem Link: https://hackerrank.com/challenges/permutation-equation/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -171,7 +171,7 @@ def permutationEquation(p):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -195,7 +195,7 @@ vector<int> permutationEquation(vector<int> &p) {
 ## Jumping on the Clouds: Revisited
 Problem Link: https://hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -210,7 +210,7 @@ def jumpingOnClouds(c, k):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -231,7 +231,7 @@ int jumpingOnClouds(vector<int> &c, int k) {
 ## Find Digits
 Problem Link: https://hackerrank.com/challenges/find-digits/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -247,7 +247,7 @@ def findDigits(n):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -269,7 +269,7 @@ int findDigits(int n) {
 ## Append and Delete
 Problem Link: https://hackerrank.com/challenges/append-and-delete/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -286,7 +286,7 @@ def appendAndDelete(s, t, k):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -308,7 +308,7 @@ string appendAndDelete(string s, string t, int k) {
 ## Sherlock and Squares
 Problem Link: https://hackerrank.com/challenges/sherlock-and-squares/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -319,7 +319,7 @@ def squares(a, b):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -335,7 +335,7 @@ int squares(int a, int b) {
 ## Library Fine
 Problem Link: https://hackerrank.com/challenges/library-fine/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -352,7 +352,7 @@ def libraryFine(d1, m1, y1, d2, m2, y2):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -374,7 +374,7 @@ int libraryFine(int d1, int m1, int y1, int d2, int m2, int y2) {
 ## Cut the sticks
 Problem Link: https://hackerrank.com/challenges/cut-the-sticks/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -391,7 +391,7 @@ def cutTheSticks(arr):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -413,7 +413,7 @@ vector<int> cutTheSticks(vector<int> &arr) {
 ## Repeated String
 Problem Link: https://hackerrank.com/challenges/repeated-string/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -431,7 +431,7 @@ def repeatedString(s, n):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -456,7 +456,7 @@ long repeatedString(string s, long n) {
 ## Jumping on the Clouds
 Problem Link: https://hackerrank.com/challenges/jumping-on-the-clouds/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -472,7 +472,7 @@ def jumpingOnClouds(c):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -494,7 +494,7 @@ int jumpingOnClouds(vector<int> &c) {
 ## Equalize the Array
 Problem Link: https://hackerrank.com/challenges/equality-in-a-array/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -512,7 +512,7 @@ def equalizeArray(arr):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -541,7 +541,7 @@ int equalizeArray(vector<int> &arr) {
 ## ACM ICPC Team
 Problem Link: https://hackerrank.com/challenges/acm-icpc-team/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -563,7 +563,7 @@ def acmTeam(topic):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -593,7 +593,7 @@ vector<int> acmTeam(vector<string> topic) {
 ## Taum and B'day
 Problem Link: https://hackerrank.com/challenges/taum-and-bday/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -605,7 +605,7 @@ def taumBday(b, w, bc, wc, z):
 ```
 
 </details>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 

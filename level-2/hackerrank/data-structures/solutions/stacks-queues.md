@@ -5,7 +5,7 @@
 ## Equal Stacks
 Problem Link: https://hackerrank.com/challenges/equal-stacks/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -41,7 +41,7 @@ def equalStacks(h1, h2, h3):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -89,7 +89,7 @@ int equalStacks(vector<int> &h1, vector<int> &h2, vector<int> &h3) {
 ## Queue using Two Stacks
 Problem Link: https://hackerrank.com/challenges/queue-using-two-stacks/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -111,7 +111,7 @@ def QueueTwoStacks(queries):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -141,7 +141,7 @@ void QueueTwoStacks(vector<vector<int>> queries) {
 ## Balanced Brackets
 Problem Link: https://hackerrank.com/challenges/balanced-brackets/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -163,7 +163,7 @@ def isBalanced(s):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -192,7 +192,7 @@ string isBalanced(string s) {
 ## Castle on the Grid
 Problem Link: https://hackerrank.com/challenges/castle-on-the-grid/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -226,7 +226,7 @@ def minimumMoves(grid, startX, startY, goalX, goalY):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -271,7 +271,7 @@ int minimumMoves(vector<string> grid, int startX, int startY, int goalX, int goa
 ## Down to Zero II
 Problem Link: https://hackerrank.com/challenges/down-to-zero-ii/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -295,7 +295,7 @@ def downToZero(n):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -327,7 +327,7 @@ int downToZero(int n) {
 ## Largest Rectangle
 Problem Link: https://hackerrank.com/challenges/largest-rectangle/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -355,7 +355,7 @@ def largestRectangle(h):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -392,7 +392,7 @@ long largestRectangle(vector<int> &h) {
 ## Simple Text Editor
 Problem Link: https://hackerrank.com/challenges/simple-text-editor/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -428,7 +428,7 @@ print('\n'.join(res))
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -490,7 +490,7 @@ int main() {
 ## Waiter
 Problem Link: https://hackerrank.com/challenges/waiter/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -531,7 +531,7 @@ def waiter(nums, q):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -583,7 +583,7 @@ vector<int> waiter(vector<int> &nums, int q) {
 ## Truck Tour
 Problem Link: https://hackerrank.com/challenges/truck-tour/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -601,7 +601,7 @@ def truckTour(pumps):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -625,7 +625,7 @@ int truckTour(vector<vector<int>> pumps) {
 ## Queries with Fixed Length
 Problem Link: https://hackerrank.com/challenges/queries-with-fixed-length/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -649,7 +649,7 @@ def solve(arr, queries):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -680,7 +680,7 @@ vector<int> solve(vector<int> &arr, vector<int> &queries) {
 ## Poisonous Plants
 Problem Link: https://hackerrank.com/challenges/poisonous-plants/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -698,7 +698,7 @@ def poisonousPlants(p):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 
@@ -722,7 +722,7 @@ int poisonousPlants(vector<int> &p) {
 ## AND xor OR
 Problem Link: https://hackerrank.com/challenges/and-xor-or/problem
 
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
     <summary><h5>Python Solution</h5></summary>
 
@@ -742,7 +742,7 @@ def andXorOr(a):
 ```
 
 </details>
-<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
     <summary><h5>CPP Solution</h5></summary>
 

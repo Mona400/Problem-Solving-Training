@@ -5,7 +5,7 @@
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -18,7 +18,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -31,7 +31,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -44,7 +44,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -53,25 +53,12 @@ Problem Link: ProblemLink
 ```
 
 </details>
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
-<details>
-    <summary><h5>Java Solution</h5></summary>
-
-```java
-
-```
-
-</details>
-
-## ProblemName
-Problem Link: ProblemLink
-
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -84,7 +71,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -97,7 +84,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -110,7 +97,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -123,7 +110,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -136,7 +123,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -149,7 +136,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -162,7 +149,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -175,7 +162,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -188,7 +175,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -201,7 +188,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -214,7 +201,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -227,7 +214,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -240,7 +227,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
@@ -253,7 +240,20 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.png"></img></a>
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
+<details>
+    <summary><h5>Java Solution</h5></summary>
+
+```java
+
+```
+
+</details>
+
+## ProblemName
+Problem Link: ProblemLink
+
+<a href="/level-1/hackerrank/java/solutions/advanced.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/java.png"></img></a>
 <details>
     <summary><h5>Java Solution</h5></summary>
 
