@@ -7,7 +7,7 @@ Problem Link: https://hackerrank.com/challenges/big-sorting/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def bigSorting(unsorted):
@@ -15,9 +15,10 @@ def bigSorting(unsorted):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 vector<string> bigSorting(vector<string> unsorted) {
@@ -30,13 +31,14 @@ vector<string> bigSorting(vector<string> unsorted) {
 ```
 
 </details>
+<br>
 
 ## Intro to Tutorial Challenges
 Problem Link: https://hackerrank.com/challenges/tutorial-intro/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def introTutorial(V, arr):
@@ -47,9 +49,10 @@ def introTutorial(V, arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int introTutorial(int V, vector<int> &arr) {
@@ -62,13 +65,14 @@ int introTutorial(int V, vector<int> &arr) {
 ```
 
 </details>
+<br>
 
 ## Insertion Sort - Part 1
 Problem Link: https://hackerrank.com/challenges/insertionsort1/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def insertionSort1(n, arr):
@@ -86,9 +90,10 @@ def insertionSort1(n, arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 void insertionSort1(int n, vector<int> &arr) {
@@ -115,13 +120,14 @@ void insertionSort1(int n, vector<int> &arr) {
 ```
 
 </details>
+<br>
 
 ## Insertion Sort - Part 2
 Problem Link: https://hackerrank.com/challenges/insertionsort2/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def insertionSort2(n, arr):
@@ -136,9 +142,10 @@ def insertionSort2(n, arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 void insertionSort2(int n, vector<int> &arr) {
@@ -161,13 +168,14 @@ void insertionSort2(int n, vector<int> &arr) {
 ```
 
 </details>
+<br>
 
 ## Correctness and the Loop Invariant
 Problem Link: https://hackerrank.com/challenges/correctness-invariant/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def insertion_sort(arr):
@@ -179,9 +187,10 @@ def insertion_sort(arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 void insertionSort(int N, int arr[]) {
@@ -198,13 +207,14 @@ void insertionSort(int N, int arr[]) {
 ```
 
 </details>
+<br>
 
 ## Running Time of Algorithms
 Problem Link: https://hackerrank.com/challenges/runningtime/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def runningTime(arr):
@@ -221,9 +231,10 @@ def runningTime(arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int runningTime(vector<int> &arr) {
@@ -243,13 +254,14 @@ int runningTime(vector<int> &arr) {
 ```
 
 </details>
+<br>
 
 ## Quicksort 1 - Partition
 Problem Link: https://hackerrank.com/challenges/quicksort1/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def quickSort(arr):
@@ -260,9 +272,10 @@ def quickSort(arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 vector<int> quickSort(vector<int> &arr) {
@@ -285,13 +298,14 @@ vector<int> quickSort(vector<int> &arr) {
 ```
 
 </details>
+<br>
 
 ## Counting Sort 1
 Problem Link: https://hackerrank.com/challenges/countingsort1/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def countingSort(arr):
@@ -302,9 +316,10 @@ def countingSort(arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 vector<int> countingSort(vector<int> &arr) {
@@ -316,13 +331,14 @@ vector<int> countingSort(vector<int> &arr) {
 ```
 
 </details>
+<br>
 
 ## Counting Sort 2
 Problem Link: https://hackerrank.com/challenges/countingsort2/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def countingSort(arr):
@@ -338,9 +354,10 @@ def countingSort(arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 vector<int> countingSort(vector<int> &arr) {
@@ -359,13 +376,14 @@ vector<int> countingSort(vector<int> &arr) {
 ```
 
 </details>
+<br>
 
 ## Closest Numbers
 Problem Link: https://hackerrank.com/challenges/closest-numbers/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def closestNumbers(arr):
@@ -383,9 +401,10 @@ def closestNumbers(arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 vector<int> closestNumbers(vector<int> &arr) {
@@ -408,13 +427,14 @@ vector<int> closestNumbers(vector<int> &arr) {
 ```
 
 </details>
+<br>
 
 ## Find the Median
 Problem Link: https://hackerrank.com/challenges/find-the-median/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def findMedian(arr):
@@ -423,9 +443,10 @@ def findMedian(arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int findMedian(vector<int> &arr) {
@@ -435,91 +456,100 @@ int findMedian(vector<int> &arr) {
 ```
 
 </details>
+<br>
 
 ## The Full Counting Sort
 Problem Link: https://hackerrank.com/challenges/countingsort4/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Fraudulent Activity Notifications
 Problem Link: https://hackerrank.com/challenges/fraudulent-activity-notifications/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Lily's Homework
 Problem Link: https://hackerrank.com/challenges/lilys-homework/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Insertion Sort Advanced Analysis
 Problem Link: https://hackerrank.com/challenges/insertion-sort/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>

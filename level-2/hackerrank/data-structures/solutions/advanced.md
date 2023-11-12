@@ -7,7 +7,7 @@ Problem Link: https://hackerrank.com/challenges/kindergarten-adventures/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def solve(t):
@@ -28,9 +28,10 @@ def solve(t):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int solve(vector<int> &t) {
@@ -54,35 +55,38 @@ int solve(vector<int> &t) {
 ```
 
 </details>
+<br>
 
 ## Mr. X and His Shots
 Problem Link: https://hackerrank.com/challenges/x-and-his-shots/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Jim and the Skyscrapers
 Problem Link: https://hackerrank.com/challenges/jim-and-the-skyscrapers/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 N = int(3e5+3)
@@ -113,9 +117,10 @@ def solve(arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 const int N = 3e5+3;
@@ -150,13 +155,14 @@ long solve(vector<int> &arr) {
 ```
 
 </details>
+<br>
 
 ## Find Maximum Index Product
 Problem Link: https://hackerrank.com/challenges/find-maximum-index-product/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def find_direction(arr, direction):
@@ -185,9 +191,10 @@ def solve(arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 vector<int> find_direction(vector<int> &arr, bool direction) {
@@ -220,13 +227,14 @@ long solve(vector<int> &arr) {
 ```
 
 </details>
+<br>
 
 ## Cube Summation
 Problem Link: https://hackerrank.com/challenges/cube-summation/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def cubeSum(n, operations):
@@ -255,9 +263,10 @@ def cubeSum(n, operations):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 vector<string> split(string s, char sep) {
@@ -309,333 +318,364 @@ vector<long> cubeSum(int n, vector<string> &operations) {
 ```
 
 </details>
+<br>
 
 ## Direct Connections
 Problem Link: https://hackerrank.com/challenges/direct-connections/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Palindromic Subsets
 Problem Link: https://hackerrank.com/challenges/palindromic-subsets/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Polynomial Division
 Problem Link: https://hackerrank.com/challenges/polynomial-division/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Costly Intervals
 Problem Link: https://hackerrank.com/challenges/costly-intervals/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## The Strange Function
 Problem Link: https://hackerrank.com/challenges/the-strange-function/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Lazy White Falcon
 Problem Link: https://hackerrank.com/challenges/lazy-white-falcon/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Heavy Light White Falcon
 Problem Link: https://hackerrank.com/challenges/heavy-light-white-falcon/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Heavy Light 2 White Falcon
 Problem Link: https://hackerrank.com/challenges/heavy-light-2-white-falcon/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Burger Happiness
 Problem Link: https://hackerrank.com/challenges/burger-happiness/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Roy and alpha-beta trees
 Problem Link: https://hackerrank.com/challenges/roy-and-alpha-beta-trees/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Coloring Tree
 Problem Link: https://hackerrank.com/challenges/coloring-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Recalling Early Days GP with Trees
 Problem Link: https://hackerrank.com/challenges/recalling-early-days-gp-with-trees/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## White Falcon And Tree
 Problem Link: https://hackerrank.com/challenges/white-falcon-and-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Jaggu Playing with Balloons
 Problem Link: https://hackerrank.com/challenges/jagia-playing-with-numbers/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Two Array Problem
 Problem Link: https://hackerrank.com/challenges/weird-queries/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>

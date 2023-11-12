@@ -7,7 +7,7 @@ Problem Link: https://hackerrank.com/challenges/tree-preorder-traversal/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def preOrder(root):
@@ -25,9 +25,10 @@ def preOrder(root):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 void preOrder(Node* root) {
@@ -49,13 +50,14 @@ void preOrder(Node* root) {
 ```
 
 </details>
+<br>
 
 ## Tree: Postorder Traversal
 Problem Link: https://hackerrank.com/challenges/tree-postorder-traversal/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def postOrder(root):
@@ -74,9 +76,10 @@ def postOrder(root):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 void postOrder(Node* root) {
@@ -99,13 +102,14 @@ void postOrder(Node* root) {
 ```
 
 </details>
+<br>
 
 ## Tree: Inorder Traversal
 Problem Link: https://hackerrank.com/challenges/tree-inorder-traversal/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def inOrder(root):
@@ -124,9 +128,10 @@ def inOrder(root):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 void inOrder(Node* root) {
@@ -151,13 +156,14 @@ void inOrder(Node* root) {
 ```
 
 </details>
+<br>
 
 ## Tree: Height of a Binary Tree
 Problem Link: https://hackerrank.com/challenges/tree-height-of-a-binary-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def height(root):
@@ -180,9 +186,10 @@ def height(root):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int height(Node *root) {
@@ -211,35 +218,38 @@ int height(Node *root) {
 ```
 
 </details>
+<br>
 
 ## Tree : Top View
 Problem Link: https://hackerrank.com/challenges/tree-top-view/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Tree: Level Order Traversal
 Problem Link: https://hackerrank.com/challenges/tree-level-order-traversal/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def levelOrder(root):
@@ -257,9 +267,10 @@ def levelOrder(root):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 void levelOrder(Node* root) {
@@ -281,13 +292,14 @@ void levelOrder(Node* root) {
 ```
 
 </details>
+<br>
 
 ## Binary Search Tree : Insertion
 Problem Link: https://hackerrank.com/challenges/binary-search-tree-insertion/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def insert(self, val):
@@ -313,9 +325,10 @@ def insert(self, val):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 Node* insert(Node *root, int data) {
@@ -348,13 +361,14 @@ Node* insert(Node *root, int data) {
 ```
 
 </details>
+<br>
 
 ## Binary Search Tree : Lowest Common Ancestor
 Problem Link: https://hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def lca(root, v1, v2):
@@ -371,9 +385,10 @@ def lca(root, v1, v2):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 Node* lca(Node* root, int v1,int v2) {
@@ -395,13 +410,14 @@ Node* lca(Node* root, int v1,int v2) {
 ```
 
 </details>
+<br>
 
 ## Tree: Huffman Decoding
 Problem Link: https://hackerrank.com/challenges/tree-huffman-decoding/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def decodeHuff(root, s):
@@ -419,9 +435,10 @@ def decodeHuff(root, s):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 void decode_huff(node* root, string s) {
@@ -442,35 +459,38 @@ void decode_huff(node* root, string s) {
 ```
 
 </details>
+<br>
 
 ## Swap Nodes [Algo]
 Problem Link: https://hackerrank.com/challenges/swap-nodes-algo/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Is This a Binary Search Tree?
 Problem Link: https://hackerrank.com/challenges/is-binary-search-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def checkBst(curr, min, max):
@@ -486,9 +506,10 @@ def check_binary_search_tree_(root):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 bool checkBst(Node* curr, int min, int max) {
@@ -505,13 +526,14 @@ bool checkBST(Node* root) {
 ```
 
 </details>
+<br>
 
 ## Self Balancing Tree
 Problem Link: https://hackerrank.com/challenges/self-balancing-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class node:
@@ -605,9 +627,10 @@ def postorder(curr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 struct node {
@@ -711,157 +734,172 @@ void postorder(node* curr) {
 ```
 
 </details>
+<br>
 
 ## Square-Ten Tree
 Problem Link: https://hackerrank.com/challenges/square-ten-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Balanced Forest
 Problem Link: https://hackerrank.com/challenges/balanced-forest/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Jenny's Subtrees
 Problem Link: https://hackerrank.com/challenges/jenny-subtrees/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Array and simple queries
 Problem Link: https://hackerrank.com/challenges/array-and-simple-queries/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Median Updates
 Problem Link: https://hackerrank.com/challenges/median/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Kitty's Calculations on a Tree
 Problem Link: https://hackerrank.com/challenges/kittys-calculations-on-a-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Array Pairs
 Problem Link: https://hackerrank.com/challenges/array-pairs/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>

@@ -7,7 +7,7 @@ Problem Link: https://hackerrank.com/challenges/simple-array-sum/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def simpleArraySum(arr):
@@ -15,9 +15,10 @@ def simpleArraySum(arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int simpleArraySum(vector<int> &arr) {
@@ -26,13 +27,14 @@ int simpleArraySum(vector<int> &arr) {
 ```
 
 </details>
+<br>
 
 ## Compare the Triplets
 Problem Link: https://hackerrank.com/challenges/compare-the-triplets/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def compareTriplets(a, b):
@@ -44,9 +46,10 @@ def compareTriplets(a, b):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 vector<int> compareTriplets(vector<int> &a, vector<int> &b) {
@@ -60,13 +63,14 @@ vector<int> compareTriplets(vector<int> &a, vector<int> &b) {
 ```
 
 </details>
+<br>
 
 ## A Very Big Sum
 Problem Link: https://hackerrank.com/challenges/a-very-big-sum/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def aVeryBigSum(arr):
@@ -74,9 +78,10 @@ def aVeryBigSum(arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 long aVeryBigSum(vector<long> arr) {
@@ -85,13 +90,14 @@ long aVeryBigSum(vector<long> arr) {
 ```
 
 </details>
+<br>
 
 ## Diagonal Difference
 Problem Link: https://hackerrank.com/challenges/diagonal-difference/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def diagonalDifference(arr):
@@ -103,9 +109,10 @@ def diagonalDifference(arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int diagonalDifference(vector<vector<int>> arr) {
@@ -119,13 +126,14 @@ int diagonalDifference(vector<vector<int>> arr) {
 ```
 
 </details>
+<br>
 
 ## Plus Minus
 Problem Link: https://hackerrank.com/challenges/plus-minus/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def plusMinus(arr):
@@ -141,9 +149,10 @@ def plusMinus(arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 void plusMinus(vector<int> &arr) {
@@ -161,13 +170,14 @@ void plusMinus(vector<int> &arr) {
 ```
 
 </details>
+<br>
 
 ## Staircase
 Problem Link: https://hackerrank.com/challenges/staircase/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def staircase(n):
@@ -176,9 +186,10 @@ def staircase(n):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 void staircase(int n) {
@@ -188,13 +199,14 @@ void staircase(int n) {
 ```
 
 </details>
+<br>
 
 ## Mini-Max Sum
 Problem Link: https://hackerrank.com/challenges/mini-max-sum/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def miniMaxSum(arr):
@@ -205,9 +217,10 @@ def miniMaxSum(arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 void miniMaxSum(vector<int> &arr) {
@@ -221,13 +234,14 @@ void miniMaxSum(vector<int> &arr) {
 ```
 
 </details>
+<br>
 
 ## Birthday Cake Candles
 Problem Link: https://hackerrank.com/challenges/birthday-cake-candles/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def birthdayCakeCandles(candles):
@@ -235,9 +249,10 @@ def birthdayCakeCandles(candles):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int birthdayCakeCandles(vector<int> &candles) {
@@ -248,13 +263,14 @@ int birthdayCakeCandles(vector<int> &candles) {
 ```
 
 </details>
+<br>
 
 ## Time Conversion
 Problem Link: https://hackerrank.com/challenges/time-conversion/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def timeConversion(s):
@@ -266,9 +282,10 @@ def timeConversion(s):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 string timeConversion(string s) {
@@ -281,13 +298,14 @@ string timeConversion(string s) {
 ```
 
 </details>
+<br>
 
 ## The Power Sum
 Problem Link: https://hackerrank.com/challenges/the-power-sum/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def powerSum(X, N):
@@ -306,9 +324,10 @@ def powerSum(X, N):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int calc_way(int n, int k, int j) {
@@ -329,13 +348,14 @@ int powerSum(int X, int N) {
 ```
 
 </details>
+<br>
 
 ## Crossword Puzzle
 Problem Link: https://hackerrank.com/challenges/crossword-puzzle/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Space:
@@ -416,9 +436,10 @@ def crosswordPuzzle(crossword, words):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 struct Space {
@@ -554,13 +575,14 @@ vector<string> crosswordPuzzle(vector<string> crossword, string words) {
 ```
 
 </details>
+<br>
 
 ## Recursive Digit Sum
 Problem Link: https://hackerrank.com/challenges/recursive-digit-sum/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def superDigit(n, k):
@@ -575,9 +597,10 @@ def superDigit(n, k):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 vector<int> map_string_to_list(string s) {
@@ -604,101 +627,110 @@ int superDigit(string n, int k) {
 ```
 
 </details>
+<br>
 
 ## Simplified Chess Engine
 Problem Link: https://hackerrank.com/challenges/simplified-chess-engine/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Password Cracker
 Problem Link: https://hackerrank.com/challenges/password-cracker/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Stone Division, Revisited
 Problem Link: https://hackerrank.com/challenges/stone-division-2/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Arithmetic Expressions
 Problem Link: https://hackerrank.com/challenges/arithmetic-expressions/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## K Factorization
 Problem Link: https://hackerrank.com/challenges/k-factorization/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def kFactorization(n, A):
@@ -724,9 +756,10 @@ def kFactorization(n, A):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 auto cmp = [](const vector<int> &a, const vector<int> &b) {
@@ -760,69 +793,76 @@ vector<int> kFactorization(int n, vector<int> &A) {
 ```
 
 </details>
+<br>
 
 ## Bowling Pins
 Problem Link: https://hackerrank.com/challenges/bowling-pins/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Simplified Chess Engine II
 Problem Link: https://hackerrank.com/challenges/simplified-chess-engine-ii/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Repetitive K-Sums
 Problem Link: https://hackerrank.com/challenges/repeat-k-sums/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>

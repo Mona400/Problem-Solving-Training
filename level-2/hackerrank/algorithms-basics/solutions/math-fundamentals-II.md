@@ -7,7 +7,7 @@ Problem Link: https://hackerrank.com/challenges/sherlock-and-divisors/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def divisors(n):
@@ -23,9 +23,10 @@ def divisors(n):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int divisors(int n) {
@@ -44,13 +45,14 @@ int divisors(int n) {
 ```
 
 </details>
+<br>
 
 ## Halloween party
 Problem Link: https://hackerrank.com/challenges/halloween-party/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def halloweenParty(k):
@@ -60,9 +62,10 @@ def halloweenParty(k):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 long halloweenParty(int k) {
@@ -73,13 +76,14 @@ long halloweenParty(int k) {
 ```
 
 </details>
+<br>
 
 ## Filling Jars
 Problem Link: https://hackerrank.com/challenges/filling-jars/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def solve(n, operations):
@@ -90,9 +94,10 @@ def solve(n, operations):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 long solve(int n, vector<vector<int>> operations) {
@@ -104,13 +109,14 @@ long solve(int n, vector<vector<int>> operations) {
 ```
 
 </details>
+<br>
 
 ## Sumar and the Floating Rocks
 Problem Link: https://hackerrank.com/challenges/harry-potter-and-the-floating-rocks/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def solve(x1, y1, x2, y2):
@@ -118,9 +124,10 @@ def solve(x1, y1, x2, y2):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int solve(int x1, int y1, int x2, int y2) {
@@ -129,13 +136,14 @@ int solve(int x1, int y1, int x2, int y2) {
 ```
 
 </details>
+<br>
 
 ## Russian Peasant Exponentiation
 Problem Link: https://hackerrank.com/challenges/russian-peasant-exponentiation/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def mul_mod(a, b, c, d, m):
@@ -156,9 +164,10 @@ def solve(a, b, k, m):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 void mul_mod(long a, long b, long c, long d, long &e, long &f, int m) {
@@ -180,13 +189,14 @@ vector<long> solve(long a, long b, long k, int m) {
 ```
 
 </details>
+<br>
 
 ## Most Distant
 Problem Link: https://hackerrank.com/challenges/most-distant/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def solve(coordinates):
@@ -205,22 +215,24 @@ def solve(coordinates):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Possible Path
 Problem Link: https://hackerrank.com/challenges/possible-path/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def solve(a, b, x, y):
@@ -228,9 +240,10 @@ def solve(a, b, x, y):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 string solve(long a, long b, long x, long y) {
@@ -239,13 +252,14 @@ string solve(long a, long b, long x, long y) {
 ```
 
 </details>
+<br>
 
 ## Summing the N series
 Problem Link: https://hackerrank.com/challenges/summing-the-n-series/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 MOD = int(1e9+7)
@@ -255,9 +269,10 @@ def summingSeries(n):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int MOD = 1e9+7;
@@ -268,13 +283,14 @@ int summingSeries(long n) {
 ```
 
 </details>
+<br>
 
 ## Diwali Lights
 Problem Link: https://hackerrank.com/challenges/diwali-lights/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 MOD = int(1e5)
@@ -294,9 +310,10 @@ def lights(n):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int MOD = 1e5;
@@ -318,13 +335,14 @@ long lights(int n) {
 ```
 
 </details>
+<br>
 
 ## Special Multiple
 Problem Link: https://hackerrank.com/challenges/special-multiple/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def solve(n):
@@ -344,9 +362,10 @@ def solve(n):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 string solve(int n) {
@@ -369,13 +388,14 @@ string solve(int n) {
 ```
 
 </details>
+<br>
 
 ## Sherlock and Permutations
 Problem Link: https://hackerrank.com/challenges/sherlock-and-permutations/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 MOD = int(1e9+7)
@@ -401,9 +421,10 @@ def build_prerequisite():
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int MOD = 1e9+7;
@@ -431,13 +452,14 @@ void build_prerequisite() {
 ```
 
 </details>
+<br>
 
 ## Even Odd Query
 Problem Link: https://hackerrank.com/challenges/even-odd-query/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def solve(arr, queries):
@@ -451,9 +473,10 @@ def solve(arr, queries):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 vector<string> solve(vector<int> &arr, vector<vector<int>> queries) {
@@ -469,13 +492,14 @@ vector<string> solve(vector<int> &arr, vector<vector<int>> queries) {
 ```
 
 </details>
+<br>
 
 ## Matrix Tracing
 Problem Link: https://hackerrank.com/challenges/matrix-tracing/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 MOD = int(1e9+7)
@@ -501,9 +525,10 @@ def build_prerequisite():
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int MOD = 1e9+7;
@@ -531,25 +556,28 @@ void build_prerequisite() {
 ```
 
 </details>
+<br>
 
 ## Byteland Itinerary
 Problem Link: https://hackerrank.com/challenges/byteland-itinerary/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>

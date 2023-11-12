@@ -7,7 +7,7 @@ Problem Link: https://hackerrank.com/challenges/find-point/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def findPoint(px, py, qx, qy):
@@ -15,9 +15,10 @@ def findPoint(px, py, qx, qy):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 vector<int> findPoint(int px, int py, int qx, int qy) {
@@ -26,13 +27,14 @@ vector<int> findPoint(int px, int py, int qx, int qy) {
 ```
 
 </details>
+<br>
 
 ## Maximum Draws
 Problem Link: https://hackerrank.com/challenges/maximum-draws/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def maximumDraws(n):
@@ -40,9 +42,10 @@ def maximumDraws(n):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int maximumDraws(int n) {
@@ -51,13 +54,14 @@ int maximumDraws(int n) {
 ```
 
 </details>
+<br>
 
 ## Handshake
 Problem Link: https://hackerrank.com/challenges/handshake/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def handshake(n):
@@ -65,9 +69,10 @@ def handshake(n):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int handshake(int n) {
@@ -76,13 +81,14 @@ int handshake(int n) {
 ```
 
 </details>
+<br>
 
 ## Minimum Height Triangle
 Problem Link: https://hackerrank.com/challenges/lowest-triangle/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def lowestTriangle(base, area):
@@ -90,9 +96,10 @@ def lowestTriangle(base, area):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int lowestTriangle(int base, int area) {
@@ -101,13 +108,14 @@ int lowestTriangle(int base, int area) {
 ```
 
 </details>
+<br>
 
 ## Army Game
 Problem Link: https://hackerrank.com/challenges/game-with-cells/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def gameWithCells(n, m):
@@ -115,9 +123,10 @@ def gameWithCells(n, m):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int gameWithCells(int n, int m) {
@@ -126,13 +135,14 @@ int gameWithCells(int n, int m) {
 ```
 
 </details>
+<br>
 
 ## Leonardo's Prime Factors
 Problem Link: https://hackerrank.com/challenges/leonardo-and-prime/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def primeCount(n):
@@ -146,9 +156,10 @@ def primeCount(n):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int primeCount(long n) {
@@ -164,13 +175,14 @@ int primeCount(long n) {
 ```
 
 </details>
+<br>
 
 ## Connecting Towns
 Problem Link: https://hackerrank.com/challenges/connecting-towns/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def connectingTowns(n, routes):
@@ -181,9 +193,10 @@ def connectingTowns(n, routes):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int connectingTowns(int n, vector<int> &routes) {
@@ -195,13 +208,14 @@ int connectingTowns(int n, vector<int> &routes) {
 ```
 
 </details>
+<br>
 
 ## Cutting Paper Squares
 Problem Link: https://hackerrank.com/challenges/p1-paper-cutting/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def solve(n, m):
@@ -209,9 +223,10 @@ def solve(n, m):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 long solve(int n, int m) {
@@ -220,35 +235,38 @@ long solve(int n, int m) {
 ```
 
 </details>
+<br>
 
 ## Sherlock and Moving Tiles
 Problem Link: https://hackerrank.com/challenges/sherlock-and-moving-tiles/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Best Divisor
 Problem Link: https://hackerrank.com/challenges/best-divisor/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def divisors(n):
@@ -272,9 +290,10 @@ def divisors(n):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int divisors(int n) {
@@ -304,13 +323,14 @@ int divisors(int n) {
 ```
 
 </details>
+<br>
 
 ## Restaurant
 Problem Link: https://hackerrank.com/challenges/restaurant/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def restaurant(l, b):
@@ -319,9 +339,10 @@ def restaurant(l, b):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int restaurant(int l, int b) {
@@ -331,57 +352,62 @@ int restaurant(int l, int b) {
 ```
 
 </details>
+<br>
 
 ## Reverse Game
 Problem Link: https://hackerrank.com/challenges/reverse-game/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Strange Grid Again
 Problem Link: https://hackerrank.com/challenges/strange-grid/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Constructing a Number
 Problem Link: https://hackerrank.com/challenges/constructing-a-number/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def canConstruct(a):
@@ -392,9 +418,10 @@ def canConstruct(a):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 string canConstruct(vector<int> &a) {
@@ -407,13 +434,14 @@ string canConstruct(vector<int> &a) {
 ```
 
 </details>
+<br>
 
 ## Sherlock and GCD
 Problem Link: https://hackerrank.com/challenges/sherlock-and-gcd/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def solve(a):
@@ -426,9 +454,10 @@ def solve(a):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 string solve(vector<int> &a) {
@@ -443,25 +472,28 @@ string solve(vector<int> &a) {
 ```
 
 </details>
+<br>
 
 ## Primitive Problem
 Problem Link: https://hackerrank.com/challenges/primitive-problem/problem
 
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>

@@ -7,7 +7,7 @@ Problem Link: https://hackerrank.com/challenges/arrays-ds/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def reverseArray(a):
@@ -15,9 +15,10 @@ def reverseArray(a):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 vector<int> reverseArray(vector<int> &a) {
@@ -27,13 +28,14 @@ vector<int> reverseArray(vector<int> &a) {
 ```
 
 </details>
+<br>
 
 ## 2D Array - DS
 Problem Link: https://hackerrank.com/challenges/2d-array/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def hourglassSum(arr):
@@ -50,9 +52,10 @@ def hourglassSum(arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int hourglassSum(vector<vector<int>> arr) {
@@ -72,13 +75,14 @@ int hourglassSum(vector<vector<int>> arr) {
 ```
 
 </details>
+<br>
 
 ## Dynamic Array
 Problem Link: https://hackerrank.com/challenges/dynamic-array/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def dynamicArray(n, queries):
@@ -97,9 +101,10 @@ def dynamicArray(n, queries):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 vector<int> dynamicArray(int n, vector<vector<int>> queries) {
@@ -123,13 +128,14 @@ vector<int> dynamicArray(int n, vector<vector<int>> queries) {
 ```
 
 </details>
+<br>
 
 ## Left Rotation
 Problem Link: https://hackerrank.com/challenges/array-left-rotation/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def rotateLeft(d, arr):
@@ -141,9 +147,10 @@ def rotateLeft(d, arr):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 vector<int> rotateLeft(int d, vector<int> &arr) {
@@ -156,13 +163,14 @@ vector<int> rotateLeft(int d, vector<int> &arr) {
 ```
 
 </details>
+<br>
 
 ## Print the Elements of a Linked List
 Problem Link: https://hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def printLinkedList(head):
@@ -173,9 +181,10 @@ def printLinkedList(head):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 void printLinkedList(SinglyLinkedListNode *head) {
@@ -188,13 +197,14 @@ void printLinkedList(SinglyLinkedListNode *head) {
 ```
 
 </details>
+<br>
 
 ## Insert a Node at the Tail of a Linked List
 Problem Link: https://hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def insertNodeAtTail(head, data):
@@ -209,9 +219,10 @@ def insertNodeAtTail(head, data):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 SinglyLinkedListNode* insertNodeAtTail(SinglyLinkedListNode *head, int data) {
@@ -228,13 +239,14 @@ SinglyLinkedListNode* insertNodeAtTail(SinglyLinkedListNode *head, int data) {
 ```
 
 </details>
+<br>
 
 ## Insert a node at the head of a linked list
 Problem Link: https://hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def insertNodeAtHead(llist, data):
@@ -245,9 +257,10 @@ def insertNodeAtHead(llist, data):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 SinglyLinkedListNode* insertNodeAtHead(SinglyLinkedListNode *llist, int data) {
@@ -259,13 +272,14 @@ SinglyLinkedListNode* insertNodeAtHead(SinglyLinkedListNode *llist, int data) {
 ```
 
 </details>
+<br>
 
 ## Insert a node at a specific position in a linked list
 Problem Link: https://hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def insertNodeAtPosition(llist, data, position):
@@ -286,9 +300,10 @@ def insertNodeAtPosition(llist, data, position):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 SinglyLinkedListNode* insertNodeAtPosition(SinglyLinkedListNode *llist, int data, int position) {
@@ -312,13 +327,14 @@ SinglyLinkedListNode* insertNodeAtPosition(SinglyLinkedListNode *llist, int data
 ```
 
 </details>
+<br>
 
 ## Delete a Node
 Problem Link: https://hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def deleteNode(llist, position):
@@ -339,9 +355,10 @@ def deleteNode(llist, position):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 SinglyLinkedListNode* deleteNode(SinglyLinkedListNode *llist, int position) {
@@ -365,13 +382,14 @@ SinglyLinkedListNode* deleteNode(SinglyLinkedListNode *llist, int position) {
 ```
 
 </details>
+<br>
 
 ## Print in Reverse
 Problem Link: https://hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def reversePrint(llist):
@@ -382,9 +400,10 @@ def reversePrint(llist):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 void reversePrint(SinglyLinkedListNode *llist) {
@@ -396,13 +415,14 @@ void reversePrint(SinglyLinkedListNode *llist) {
 ```
 
 </details>
+<br>
 
 ## Reverse a linked list
 Problem Link: https://hackerrank.com/challenges/reverse-a-linked-list/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def reverse(llist):
@@ -420,9 +440,10 @@ def reverse(llist):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 SinglyLinkedListNode* reverse(SinglyLinkedListNode *llist) {
@@ -442,13 +463,14 @@ SinglyLinkedListNode* reverse(SinglyLinkedListNode *llist) {
 ```
 
 </details>
+<br>
 
 ## Compare two linked lists
 Problem Link: https://hackerrank.com/challenges/compare-two-linked-lists/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def compare_lists(llist1, llist2):
@@ -461,9 +483,10 @@ def compare_lists(llist1, llist2):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 bool compare_lists(SinglyLinkedListNode *llist1, SinglyLinkedListNode *llist2) {
@@ -478,13 +501,14 @@ bool compare_lists(SinglyLinkedListNode *llist1, SinglyLinkedListNode *llist2) {
 ```
 
 </details>
+<br>
 
 ## Merge two sorted linked lists
 Problem Link: https://hackerrank.com/challenges/merge-two-sorted-linked-lists/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def mergeLists(llist1, llist2):
@@ -513,9 +537,10 @@ def mergeLists(llist1, llist2):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 SinglyLinkedListNode* mergeLists(SinglyLinkedListNode *llist1, SinglyLinkedListNode *llist2) {
@@ -550,13 +575,14 @@ SinglyLinkedListNode* mergeLists(SinglyLinkedListNode *llist1, SinglyLinkedListN
 ```
 
 </details>
+<br>
 
 ## Get Node Value
 Problem Link: https://hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def getNode(llist, positionFromTail):
@@ -574,9 +600,10 @@ def getNode(llist, positionFromTail):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int getNode(SinglyLinkedListNode *llist, int positionFromTail) {
@@ -597,13 +624,14 @@ int getNode(SinglyLinkedListNode *llist, int positionFromTail) {
 ```
 
 </details>
+<br>
 
 ## Delete duplicate-value nodes from a sorted linked list
 Problem Link: https://hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def removeDuplicates(llist):
@@ -619,9 +647,10 @@ def removeDuplicates(llist):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 SinglyLinkedListNode* removeDuplicates(SinglyLinkedListNode *llist) {
@@ -641,13 +670,14 @@ SinglyLinkedListNode* removeDuplicates(SinglyLinkedListNode *llist) {
 ```
 
 </details>
+<br>
 
 ## Find Merge Point of Two Lists
 Problem Link: https://hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def findMergeNode(head1, head2):
@@ -675,9 +705,10 @@ def findMergeNode(head1, head2):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int findMergeNode(SinglyLinkedListNode *head1, SinglyLinkedListNode *head2) {
@@ -711,13 +742,14 @@ int findMergeNode(SinglyLinkedListNode *head1, SinglyLinkedListNode *head2) {
 ```
 
 </details>
+<br>
 
 ## Inserting a Node Into a Sorted Doubly Linked List
 Problem Link: https://hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def sortedInsert(llist, data):
@@ -742,9 +774,10 @@ def sortedInsert(llist, data):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 DoublyLinkedListNode* sortedInsert(DoublyLinkedListNode *llist, int data) {
@@ -772,13 +805,14 @@ DoublyLinkedListNode* sortedInsert(DoublyLinkedListNode *llist, int data) {
 ```
 
 </details>
+<br>
 
 ## Reverse a doubly linked list
 Problem Link: https://hackerrank.com/challenges/reverse-a-doubly-linked-list/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def reverse(llist):
@@ -798,9 +832,10 @@ def reverse(llist):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 DoublyLinkedListNode* reverse(DoublyLinkedListNode *llist) {
@@ -822,13 +857,14 @@ DoublyLinkedListNode* reverse(DoublyLinkedListNode *llist) {
 ```
 
 </details>
+<br>
 
 ## Cycle Detection
 Problem Link: https://hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def has_cycle(head):
@@ -845,9 +881,10 @@ def has_cycle(head):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 bool has_cycle(SinglyLinkedListNode *head) {
@@ -866,13 +903,14 @@ bool has_cycle(SinglyLinkedListNode *head) {
 ```
 
 </details>
+<br>
 
 ## Sparse Arrays
 Problem Link: https://hackerrank.com/challenges/sparse-arrays/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def matchingStrings(stringList, queries):
@@ -886,9 +924,10 @@ def matchingStrings(stringList, queries):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 vector<int> matchingStrings(vector<string> stringList, vector<string> queries) {
@@ -903,13 +942,14 @@ vector<int> matchingStrings(vector<string> stringList, vector<string> queries) {
 ```
 
 </details>
+<br>
 
 ## Array Manipulation
 Problem Link: https://hackerrank.com/challenges/crush/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 def arrayManipulation(n, queries):
@@ -925,9 +965,10 @@ def arrayManipulation(n, queries):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 long arrayManipulation(int n, vector<vector<int>> queries) {
@@ -947,3 +988,4 @@ long arrayManipulation(int n, vector<vector<int>> queries) {
 ```
 
 </details>
+<br>

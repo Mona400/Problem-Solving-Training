@@ -7,29 +7,31 @@ Problem Link: https://hackerrank.com/challenges/qheap1/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Jesse and Cookies
 Problem Link: https://hackerrank.com/challenges/jesse-and-cookies/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 import queue
@@ -54,9 +56,10 @@ def cookies(k, A):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 int cookies(int k, vector<int> &A) {
@@ -85,13 +88,14 @@ int cookies(int k, vector<int> &A) {
 ```
 
 </details>
+<br>
 
 ## Components in a graph
 Problem Link: https://hackerrank.com/challenges/components-in-graph/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class disjoint_set:
@@ -151,9 +155,10 @@ def componentsInGraph(gb):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class disjoint_set {
@@ -225,13 +230,14 @@ vector<int> componentsInGraph(vector<vector<int>> gb) {
 ```
 
 </details>
+<br>
 
 ## Contacts
 Problem Link: https://hackerrank.com/challenges/contacts/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Trie:
@@ -277,9 +283,10 @@ def contacts(queries):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class TrieNode {
@@ -341,13 +348,14 @@ vector<int> contacts(vector<vector<string>> queries) {
 ```
 
 </details>
+<br>
 
 ## Merging Communities
 Problem Link: https://hackerrank.com/challenges/merging-communities/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class disjoint_set:
@@ -391,9 +399,10 @@ class disjoint_set:
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class disjoint_set {
@@ -447,35 +456,38 @@ public:
 ```
 
 </details>
+<br>
 
 ## Kundu and Tree
 Problem Link: https://hackerrank.com/challenges/kundu-and-tree/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Find the Running Median
 Problem Link: https://hackerrank.com/challenges/find-the-running-median/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 import queue
@@ -513,9 +525,10 @@ def runningMedian(a):
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 vector<double> runningMedian(vector<int> &a) {
@@ -560,69 +573,76 @@ vector<double> runningMedian(vector<int> &a) {
 ```
 
 </details>
+<br>
 
 ## Minimum Average Waiting Time
 Problem Link: https://hackerrank.com/challenges/minimum-average-waiting-time/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## Super Maximum Cost Queries
 Problem Link: https://hackerrank.com/challenges/maximum-cost-queries/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
 
 ## No Prefix Set
 Problem Link: https://hackerrank.com/challenges/no-prefix-set/problem
 
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 #TODO
 ```
 
 </details>
+<br>
 <a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 //TODO
 ```
 
 </details>
+<br>
