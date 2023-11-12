@@ -14,6 +14,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -27,6 +28,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -40,6 +42,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -53,6 +56,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 <a href="/level-1/hackerrank/java/solutions/introduction.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 
 ## ProblemName
@@ -67,6 +71,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -80,6 +85,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -93,6 +99,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -106,6 +113,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -119,6 +127,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -132,6 +141,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -145,6 +155,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -158,6 +169,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -171,6 +183,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -184,6 +197,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -197,6 +211,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -210,6 +225,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -223,6 +239,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -236,6 +253,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -249,6 +267,7 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
 
 ## ProblemName
 Problem Link: ProblemLink
@@ -262,3 +281,4 @@ Problem Link: ProblemLink
 ```
 
 </details>
+<br>
