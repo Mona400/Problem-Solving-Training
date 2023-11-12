@@ -40,27 +40,70 @@ each sheet of them contains linear and non linear data structures problems, and 
 <table>
     <thead>
         <tr>
-<th align="center" width="400px"><a href="/level-2/hackerrank/data-structures">data-structures</a></th>
+<th align="center" width="340px"><a href="/level-2/hackerrank/data-structures">data-structures</a></th>
 <th align="center" width="150px">120 problems</th>
-<th align="center" width="400px"><a href="/level-2/hackerrank/algorithms-basics">algorithms-basics</a></th>
+<th align="center" width="60px"></th>
+<th align="center" width="340px"><a href="/level-2/hackerrank/algorithms-basics">algorithms-basics</a></th>
 <th align="center" width="150px">120 problems</th>
+<th align="center" width="60px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Arrays and Linked Lists              </td><td align="center">20 problems</td>
-            <td>Warm-up and Recursion                </td><td align="center">20 problems</td></tr>
-        <tr><td>Stacks and Queues                    </td><td align="center">15 problems</td>
-            <td>Sorting                              </td><td align="center">15 problems</td></tr>
-        <tr><td>Binary Tree and Balanced Binary Tree </td><td align="center">20 problems</td>
-            <td>Search                               </td><td align="center">20 problems</td></tr>
-        <tr><td>Heap and Disjoint Set                </td><td align="center">10 problems</td>
-            <td>Implementation I                     </td><td align="center">20 problems</td></tr>
-        <tr><td>Strings                              </td><td align="center">20 problems</td>
-            <td>Implementation II                    </td><td align="center">15 problems</td></tr>
-        <tr><td>Bit Manipulation                     </td><td align="center">15 problems</td>
-            <td>Math Fundamentals I                  </td><td align="center">15 problems</td></tr>
-        <tr><td>Advanced                             </td><td align="center">20 problems</td>
-            <td>Math Fundamentals II                 </td><td align="center">15 problems</td></tr>
+        <tr>
+<td>Arrays and Linked Lists</td>
+<td align="center">20 problems</td>
+<td><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+<td>Warm-up and Recursion</td>
+<td align="center">20 problems</td>
+<td><a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+        </tr>
+<tr><td>Stacks and Queues</td>
+<td align="center">15 problems</td>
+<td><a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+<td>Sorting</td>
+<td align="center">15 problems</td>
+<td><a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+        </tr>
+        <tr>
+<td>Binary Tree and Balanced Binary Tree</td>
+<td align="center">20 problems</td>
+<td><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+<td>Search</td>
+<td align="center">20 problems</td>
+<td><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+        </tr>
+        <tr>
+<td>Heap and Disjoint Set</td>
+<td align="center">10 problems</td>
+<td><a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+<td>Implementation I</td>
+<td align="center">20 problems</td>
+<td><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+        </tr>
+        <tr>
+<td>Strings</td>
+<td align="center">20 problems</td>
+<td><a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+<td>Implementation II</td>
+<td align="center">15 problems</td>
+<td><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+        </tr>
+        <tr>
+<td>Bit Manipulation</td>
+<td align="center">15 problems</td>
+<td><a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+<td>Math Fundamentals I</td>
+<td align="center">15 problems</td>
+<td><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+        </tr>
+        <tr>
+<td>Advanced</td>
+<td align="center">20 problems</td>
+<td><a href="/level-2/hackerrank/data-structures/solutions/advanced.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+<td>Math Fundamentals II</td>
+<td align="center">15 problems</td>
+<td><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+        </tr>
     </tbody>
 </table>
 
