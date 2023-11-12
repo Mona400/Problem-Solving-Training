@@ -37,7 +37,7 @@ The HackerRank OJ phases:
 [[mathematics-2](/level-3/hackerrank/mathematics-2)],
 [[graph-string](/level-3/hackerrank/graph-string)],
 [[dynamic-programming](/level-3/hackerrank/dynamic-programming)],
-each sheet of them divided into (string, number theory, algebra, graph, greedy, mathematics, bit manipulation, and dynamic programming). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~125 problems.
+each phase of them divided into (string, number theory, algebra, graph, greedy, mathematics, bit manipulation, and dynamic programming). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each phase contains ~125 problems.
 
 <table>
     <thead>
@@ -102,7 +102,7 @@ The LeetCode OJ phases:
 [[graph-theory](/level-2/leetcode/graph-theory)],
 [[mathematics-and-strings](/level-2/leetcode/mathematics-strings)],
 [[dynamic-programming](/level-2/leetcode/dynamic-programming)],
-These phases contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). In addition to (String, Graph, BFS, DFS, Mathematics, Backtracking, and Dynamic Programming) problems. These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~160 problems.
+These phases contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). In addition to (String, Graph, BFS, DFS, Mathematics, Backtracking, and Dynamic Programming) problems. These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each phase contains ~160 problems.
 
 <table>
     <thead>
@@ -193,7 +193,7 @@ These phases contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
 The AtCoder OJ phases:
 [[phase-3-1](/level-3/atcoder/phase-3-1)],
 [[phase-3-2](/level-3/atcoder/phase-3-2)],
-These phases contain grand contests (hard contests) and each sheet contains ~65 problems.
+These phases contain grand contests (hard contests) and each phase contains ~65 problems.
 
 <table>
     <thead>
@@ -226,7 +226,7 @@ The Codeforces OJ phases:
 [[phase-3-2](/level-3/codeforces/phase-3-2)],
 [[phase-3-3](/level-3/codeforces/phase-3-3)],
 [[phase-3-4](/level-3/codeforces/phase-3-4)],
-each sheet of them contains C-Div2/A-Div1 problems and divided into (Divide and Conquer - Graph - Data Structure - Math and Number Theory - String - Greedy and Brute Force - Dynamic Programming). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
+each phase of them contains C-Div2/A-Div1 problems and divided into (Divide and Conquer - Graph - Data Structure - Math and Number Theory - String - Greedy and Brute Force - Dynamic Programming). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each phase contains ~120 problems.
 [[div3-div4-contests](/level-3/codeforces/div3-div4-contests)] that focus on div3 + div4 contests (easy contests) and contains ~85 contests, and
 [[educational-contests](/level-3/codeforces/educational-contests)], that focus on educational-contests (medium contests) and contains ~125 contests.
 
@@ -365,7 +365,7 @@ The HackerEarth OJ phases:
 [[dynamic-programming-2](/level-3/hackerearth/dynamic-programming-2)],
 [[advanced-data-structures-1](/level-3/hackerearth/advanced-data-structures-1)],
 [[advanced-data-structures-2](/level-3/hackerearth/advanced-data-structures-2)],
-each sheet of them divided into (string, graph, greedy, mathematics, number theory, dynamic programming, advanced data structures). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
+each phase of them divided into (string, graph, greedy, mathematics, number theory, dynamic programming, advanced data structures). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each phase contains ~120 problems.
 
 <table>
     <thead>
@@ -448,6 +448,6 @@ each sheet of them divided into (string, graph, greedy, mathematics, number theo
 
 ## `Notes`
 
-* The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the sheet is done if you solved at least 30% of the sheet problems, finally you can say that the level is done if you solved at least 6 phases.
+* The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the phase is done if you solved at least 30% of the phase problems, finally you can say that the level is done if you solved at least 6 phases.
 
 <br>

@@ -35,7 +35,7 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 The HackerRank OJ phases:
 [[data-structures](/level-2/hackerrank/data-structures)],
 [[algorithms-basics](/level-2/hackerrank/algorithms-basics)],
-each sheet of them contains linear and non linear data structures problems, and basic algorithms problems. These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
+each phase of them contains linear and non linear data structures problems, and basic algorithms problems. These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each phase contains ~120 problems.
 
 <table>
     <thead>
@@ -119,7 +119,7 @@ The LeetCode OJ phases:
 [[graph-theory](/level-2/leetcode/graph-theory)],
 [[interviews-questions-1](/level-2/leetcode/interviews-questions-1)],
 [[interviews-questions-2](/level-2/leetcode/interviews-questions-2)],
-These phases contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). In addition to (String, Graph, BFS, DFS, Mathematics, Backtracking, and Dynamic Programming) problems. These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~140 problems.
+These phases contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). In addition to (String, Graph, BFS, DFS, Mathematics, Backtracking, and Dynamic Programming) problems. These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each phase contains ~140 problems.
 
 <table>
     <thead>
@@ -210,7 +210,7 @@ These phases contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
 The AtCoder OJ phases:
 [[phase-2-1](/level-2/atcoder/phase-2-1)],
 [[phase-2-2](/level-2/atcoder/phase-2-2)],
-These phases contain regular contests (medium contests) and each sheet contains ~100 problems.
+These phases contain regular contests (medium contests) and each phase contains ~100 problems.
 
 <table>
     <thead>
@@ -243,7 +243,7 @@ The Codeforces OJ phases:
 [[phase-2-2](/level-2/codeforces/phase-2-2)],
 [[phase-2-3](/level-2/codeforces/phase-2-3)],
 [[phase-2-4](/level-2/codeforces/phase-2-4)],
-each sheet of them contains B-Div2 problems and divided into (Data Structure - Mathematics - String - Greedy - Brute Force). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
+each phase of them contains B-Div2 problems and divided into (Data Structure - Mathematics - String - Greedy - Brute Force). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each phase contains ~120 problems.
 [[div3-div4-contests](/level-2/codeforces/div3-div4-contests)] that focus on div3 + div4 contests (easy contests) and contains ~85 contests, and
 [[educational-contests](/level-2/codeforces/educational-contests)], that focus on educational-contests (medium contests) and contains ~125 contests.
 
@@ -325,7 +325,7 @@ The HackerEarth OJ phases:
 [[non-linear-data-structures](/level-2/hackerearth/non-linear-data-structures)],
 [[algorithms-searching](/level-2/hackerearth/algorithms-searching)],
 [[algorithms-sorting](/level-2/hackerearth/algorithms-sorting)],
-each sheet of them contains linear and non-linear data structures problems, plus searching and sorting algorithms. These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~100 problems.
+each phase of them contains linear and non-linear data structures problems, plus searching and sorting algorithms. These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each phase contains ~100 problems.
 
 <table>
     <thead>
@@ -372,6 +372,6 @@ each sheet of them contains linear and non-linear data structures problems, plus
 
 ## `Notes`
 
-* The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the sheet is done if you solved at least 30% of the sheet problems, finally you can say that the level is done if you solved at least 6 phases.
+* The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the phase is done if you solved at least 30% of the phase problems, finally you can say that the level is done if you solved at least 6 phases.
 
 <br>

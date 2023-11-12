@@ -36,7 +36,7 @@ The HackerRank OJ phases:
 [[python](/level-1/hackerrank/python)],
 [[java](/level-1/hackerrank/java)],
 [[linux-shell](/level-1/hackerrank/linux-shell)],
-each sheet of them divided into (Introduction - Conditionals and Loops - Arrays and Strings - Functions Standard Libraries - Classes and Inheritance). In addition to the Linux Shell sheet that contains (Bash - Text Processing - Arrays in Bash - Grep Sed Awk). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~70 problems.
+each phase of them divided into (Introduction - Conditionals and Loops - Arrays and Strings - Functions Standard Libraries - Classes and Inheritance). In addition to the Linux Shell phase that contains (Bash - Text Processing - Arrays in Bash - Grep Sed Awk). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each phase contains ~70 problems.
 
 <table>
     <thead>
@@ -91,7 +91,7 @@ The AtCoder OJ phases:
 [[phase-1-2](/level-1/atcoder/phase-1-2)],
 [[phase-1-3](/level-1/atcoder/phase-1-3)],
 [[phase-1-4](/level-1/atcoder/phase-1-4)],
-These phases contain beginner contests (easy contests and each sheet contains ~135 problems.
+These phases contain beginner contests (easy contests and each phase contains ~135 problems.
 
 <table>
     <thead>
@@ -146,7 +146,7 @@ The Codeforces OJ phases:
 [[phase-1-2](/level-1/codeforces/phase-1-2)],
 [[phase-1-3](/level-1/codeforces/phase-1-3)],
 [[phase-1-4](/level-1/codeforces/phase-1-4)],
-each sheet of them contains A Div2 problems and divided into (Basic Operators - Conditions - Loops - Lists/Arrays - Strings). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~125 problems.
+each phase of them contains A Div2 problems and divided into (Basic Operators - Conditions - Loops - Lists/Arrays - Strings). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each phase contains ~125 problems.
 
 <table>
     <thead>
@@ -205,7 +205,7 @@ The HackerEarth OJ phases:
 [[phase-1-2](/level-1/hackerearth/phase-1-2)],
 [[phase-1-3](/level-1/hackerearth/phase-1-3)],
 [[phase-1-4](/level-1/hackerearth/phase-1-4)],
-each sheet of them divided into (Input/Output - Bit Manipulation - Recursion - Operators). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~100 problems.
+each phase of them divided into (Input/Output - Bit Manipulation - Recursion - Operators). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each phase contains ~100 problems.
 
 <table>
     <thead>
@@ -248,6 +248,6 @@ each sheet of them divided into (Input/Output - Bit Manipulation - Recursion - O
 
 ## `Notes`
 
-* The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the sheet is done if you solved at least 30% of the sheet problems, finally you can say that the level is done if you solved at least 6 phases.
+* The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the phase is done if you solved at least 30% of the phase problems, finally you can say that the level is done if you solved at least 6 phases.
 
 <br>
