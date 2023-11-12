@@ -3,7 +3,8 @@
 # Problem Solving Training
 Problem Solving Training for computer science students.
 
-<br><br><br><br>
+<br><br><br>
+
 <a href="/level-1/README.md"><img align="right" width="80" src="/logos/level-1.png"></img></a>
 
 ## [`Level 1`](/level-1/README.md)
