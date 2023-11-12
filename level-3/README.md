@@ -10,11 +10,11 @@ Problem Solving Training for computer science students.
 
 ## Table of Contents
   * [Prerequisite Knowledge](#prerequisite-knowledge)
-  * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
-  * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
-  * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
-  * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
-  * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
+  * [HackerRank Online Judge Sheets](#hackerrank-oj-phases)
+  * [LeetCode Online Judge Sheets](#leetcode-oj-phases)
+  * [AtCoder Online Judge Sheets](#atcoder-oj-phases)
+  * [Codeforces Online Judge Sheets](#codeforces-oj-phases)
+  * [HackerEarth Online Judge Sheets](#hackerearth-oj-phases)
   * [Notes](#notes)
 
 <br><br><br><br>
@@ -22,22 +22,22 @@ Problem Solving Training for computer science students.
 
 ## `Level 3`
 
-This level simply consists of 26 sheets, 4 sheets on HackerRank Online Judge, 6 sheets on Codeforces Online Judge, 2 sheets on AtCoder Online Judge, 6 sheets on LeetCode Online Judge, and the last 8 sheets on HackerEarth Online Judge.
+This level simply consists of 26 phases, 4 phases on HackerRank Online Judge, 6 phases on Codeforces Online Judge, 2 phases on AtCoder Online Judge, 6 phases on LeetCode Online Judge, and the last 8 phases on HackerEarth Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/Computer-Science-Trainings/blob/master/Advanced-Data-Structures-and-Algorithms/README.md)
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
 
-<a href="/level-3/README.md/#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
+<a href="/level-3/README.md/#hackerrank-oj-phases"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 <br>
 
-## `HackerRank OJ sheets`
+## `HackerRank OJ phases`
 
-The HackerRank OJ sheets:
+The HackerRank OJ phases:
 [[mathematics-1](/level-3/hackerrank/mathematics-1)],
 [[mathematics-2](/level-3/hackerrank/mathematics-2)],
 [[graph-string](/level-3/hackerrank/graph-string)],
 [[dynamic-programming](/level-3/hackerrank/dynamic-programming)],
-each sheet of them divided into (string, number theory, algebra, graph, greedy, mathematics, bit manipulation, and dynamic programming). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~125 problems.
+each sheet of them divided into (string, number theory, algebra, graph, greedy, mathematics, bit manipulation, and dynamic programming). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~125 problems.
 
 <table>
     <thead>
@@ -90,19 +90,19 @@ each sheet of them divided into (string, number theory, algebra, graph, greedy, 
     </tbody>
 </table>
 
-<a href="/level-3/README.md/#leetcode-oj-sheets"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
+<a href="/level-3/README.md/#leetcode-oj-phases"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
 <br>
 
-## `LeetCode OJ sheets`
+## `LeetCode OJ phases`
 
-The LeetCode OJ sheets:
+The LeetCode OJ phases:
 [[linear-data-structures](/level-2/leetcode/linear-data-structures)],
 [[non-linear-data-structures](/level-2/leetcode/non-linear-data-structures)],
 [[basic-algorithms](/level-2/leetcode/basic-algorithms)],
 [[graph-theory](/level-2/leetcode/graph-theory)],
 [[mathematics-and-strings](/level-2/leetcode/mathematics-strings)],
 [[dynamic-programming](/level-2/leetcode/dynamic-programming)],
-These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). In addition to (String, Graph, BFS, DFS, Mathematics, Backtracking, and Dynamic Programming) problems. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~160 problems.
+These phases contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). In addition to (String, Graph, BFS, DFS, Mathematics, Backtracking, and Dynamic Programming) problems. These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~160 problems.
 
 <table>
     <thead>
@@ -185,15 +185,15 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
     </tbody>
 </table>
 
-<a href="/level-3/README.md/#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.png"></img></a>
+<a href="/level-3/README.md/#atcoder-oj-phases"><img align="right" width="80" src="/logos/atcoder.png"></img></a>
 <br>
 
-## `AtCoder OJ sheets`
+## `AtCoder OJ phases`
 
-The AtCoder OJ sheets:
+The AtCoder OJ phases:
 [[phase-3-1](/level-3/atcoder/phase-3-1)],
 [[phase-3-2](/level-3/atcoder/phase-3-2)],
-These sheets contain grand contests (hard contests) and each sheet contains ~65 problems.
+These phases contain grand contests (hard contests) and each sheet contains ~65 problems.
 
 <table>
     <thead>
@@ -216,21 +216,21 @@ These sheets contain grand contests (hard contests) and each sheet contains ~65 
     </tbody>
 </table>
 
-<a href="/level-3/README.md/#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.png"></img></a>
+<a href="/level-3/README.md/#codeforces-oj-phases"><img align="right" width="80" src="/logos/codeforces.png"></img></a>
 <br>
 
-## `Codeforces OJ sheets`
+## `Codeforces OJ phases`
 
-The Codeforces OJ sheets:
+The Codeforces OJ phases:
 [[phase-3-1](/level-3/codeforces/phase-3-1)],
 [[phase-3-2](/level-3/codeforces/phase-3-2)],
 [[phase-3-3](/level-3/codeforces/phase-3-3)],
 [[phase-3-4](/level-3/codeforces/phase-3-4)],
-each sheet of them contains C-Div2/A-Div1 problems and divided into (Divide and Conquer - Graph - Data Structure - Math and Number Theory - String - Greedy and Brute Force - Dynamic Programming). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
+each sheet of them contains C-Div2/A-Div1 problems and divided into (Divide and Conquer - Graph - Data Structure - Math and Number Theory - String - Greedy and Brute Force - Dynamic Programming). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
 [[div3-div4-contests](/level-3/codeforces/div3-div4-contests)] that focus on div3 + div4 contests (easy contests) and contains ~85 contests, and
 [[educational-contests](/level-3/codeforces/educational-contests)], that focus on educational-contests (medium contests) and contains ~125 contests.
 
-For the last 4 optional sheets:
+For the last 4 optional phases:
 [[gym-contests-1](/level-3/codeforces/gym-contests-1)],
 [[gym-contests-2](/level-3/codeforces/gym-contests-2)],
 [[gym-contests-3](/level-3/codeforces/gym-contests-3)],
@@ -351,12 +351,12 @@ that focus on gym-contests that contains ~125 contests.
     </tbody>
 </table>
 
-<a href="/level-3/README.md/#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.png"></img></a>
+<a href="/level-3/README.md/#hackerearth-oj-phases"><img align="right" width="80" src="/logos/hackerearth.png"></img></a>
 <br>
 
-## `HackerEarth OJ sheets`
+## `HackerEarth OJ phases`
 
-The HackerEarth OJ sheets:
+The HackerEarth OJ phases:
 [[mathematics-strings-1](/level-3/hackerearth/mathematics-strings-1)],
 [[mathematics-strings-2](/level-3/hackerearth/mathematics-strings-2)],
 [[graph-1](/level-3/hackerearth/graph-1)],
@@ -365,7 +365,7 @@ The HackerEarth OJ sheets:
 [[dynamic-programming-2](/level-3/hackerearth/dynamic-programming-2)],
 [[advanced-data-structures-1](/level-3/hackerearth/advanced-data-structures-1)],
 [[advanced-data-structures-2](/level-3/hackerearth/advanced-data-structures-2)],
-each sheet of them divided into (string, graph, greedy, mathematics, number theory, dynamic programming, advanced data structures). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
+each sheet of them divided into (string, graph, greedy, mathematics, number theory, dynamic programming, advanced data structures). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
 
 <table>
     <thead>
@@ -448,6 +448,6 @@ each sheet of them divided into (string, graph, greedy, mathematics, number theo
 
 ## `Notes`
 
-* The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the sheet is done if you solved at least 30% of the sheet problems, finally you can say that the level is done if you solved at least 6 sheets.
+* The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the sheet is done if you solved at least 30% of the sheet problems, finally you can say that the level is done if you solved at least 6 phases.
 
 <br>

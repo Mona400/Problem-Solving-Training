@@ -10,11 +10,11 @@ Problem Solving Training for computer science students.
 
 ## Table of Contents
   * [Prerequisite Knowledge](#prerequisite-knowledge)
-  * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
-  * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
-  * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
-  * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
-  * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
+  * [HackerRank Online Judge Sheets](#hackerrank-oj-phases)
+  * [LeetCode Online Judge Sheets](#leetcode-oj-phases)
+  * [AtCoder Online Judge Sheets](#atcoder-oj-phases)
+  * [Codeforces Online Judge Sheets](#codeforces-oj-phases)
+  * [HackerEarth Online Judge Sheets](#hackerearth-oj-phases)
   * [Notes](#notes)
 
 <br><br><br><br>
@@ -22,61 +22,104 @@ Problem Solving Training for computer science students.
 
 ## `Level 2`
 
-This level simply consists of 20 sheets, 2 sheets on HackerRank Online Judge, 6 sheets on Codeforces Online Judge, 6 sheets on LeetCode Online Judge, 2 sheets on AtCoder Online Judge, 4 sheets on HackerEarth Online Judge.
+This level simply consists of 20 phases, 2 phases on HackerRank Online Judge, 6 phases on Codeforces Online Judge, 6 phases on LeetCode Online Judge, 2 phases on AtCoder Online Judge, 4 phases on HackerEarth Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/Computer-Science-Trainings/blob/master/Data-Structures-and-Algorithms/README.md)
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms Analysis like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
 
-<a href="/level-2/README.md/#hackerrank-oj-sheets"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
+<a href="/level-2/README.md/#hackerrank-oj-phases"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 <br>
 
-## `HackerRank OJ sheets`
+## `HackerRank OJ phases`
 
-The HackerRank OJ sheets:
+The HackerRank OJ phases:
 [[data-structures](/level-2/hackerrank/data-structures)],
 [[algorithms-basics](/level-2/hackerrank/algorithms-basics)],
-each sheet of them contains linear and non linear data structures problems, and basic algorithms problems. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
+each sheet of them contains linear and non linear data structures problems, and basic algorithms problems. These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
 
 <table>
     <thead>
         <tr>
-<th align="center" width="400px"><a href="/level-2/hackerrank/data-structures">data-structures</a></th>
+<th align="center" width="340px"><a href="/level-2/hackerrank/data-structures">data-structures</a></th>
 <th align="center" width="150px">120 problems</th>
-<th align="center" width="400px"><a href="/level-2/hackerrank/algorithms-basics">algorithms-basics</a></th>
+<th align="center" width="60px"></th>
+<th align="center" width="340px"><a href="/level-2/hackerrank/algorithms-basics">algorithms-basics</a></th>
 <th align="center" width="150px">120 problems</th>
+<th align="center" width="60px"></th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Arrays and Linked Lists              </td><td align="center">20 problems</td>
-            <td>Warm-up and Recursion                </td><td align="center">20 problems</td></tr>
-        <tr><td>Stacks and Queues                    </td><td align="center">15 problems</td>
-            <td>Sorting                              </td><td align="center">15 problems</td></tr>
-        <tr><td>Binary Tree and Balanced Binary Tree </td><td align="center">20 problems</td>
-            <td>Search                               </td><td align="center">20 problems</td></tr>
-        <tr><td>Heap and Disjoint Set                </td><td align="center">10 problems</td>
-            <td>Implementation I                     </td><td align="center">20 problems</td></tr>
-        <tr><td>Strings                              </td><td align="center">20 problems</td>
-            <td>Implementation II                    </td><td align="center">15 problems</td></tr>
-        <tr><td>Bit Manipulation                     </td><td align="center">15 problems</td>
-            <td>Math Fundamentals I                  </td><td align="center">15 problems</td></tr>
-        <tr><td>Advanced                             </td><td align="center">20 problems</td>
-            <td>Math Fundamentals II                 </td><td align="center">15 problems</td></tr>
+        <tr>
+<td>Arrays and Linked Lists</td>
+<td align="center">20 problems</td>
+<td><a href="/level-2/hackerrank/data-structures/solutions/arrays-linkedlists.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+<td>Warm-up and Recursion</td>
+<td align="center">20 problems</td>
+<td><a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+        </tr>
+<tr><td>Stacks and Queues</td>
+<td align="center">15 problems</td>
+<td><a href="/level-2/hackerrank/data-structures/solutions/stacks-queues.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+<td>Sorting</td>
+<td align="center">15 problems</td>
+<td><a href="/level-2/hackerrank/algorithms-basics/solutions/sorting.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+        </tr>
+        <tr>
+<td>Binary Tree and Balanced Binary Tree</td>
+<td align="center">20 problems</td>
+<td><a href="/level-2/hackerrank/data-structures/solutions/binary-tree-balanced-binary-tree.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+<td>Search</td>
+<td align="center">20 problems</td>
+<td><a href="/level-2/hackerrank/algorithms-basics/solutions/search.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+        </tr>
+        <tr>
+<td>Heap and Disjoint Set</td>
+<td align="center">10 problems</td>
+<td><a href="/level-2/hackerrank/data-structures/solutions/heap-disjoint-set.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+<td>Implementation I</td>
+<td align="center">20 problems</td>
+<td><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-I.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+        </tr>
+        <tr>
+<td>Strings</td>
+<td align="center">20 problems</td>
+<td><a href="/level-2/hackerrank/data-structures/solutions/strings.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+<td>Implementation II</td>
+<td align="center">15 problems</td>
+<td><a href="/level-2/hackerrank/algorithms-basics/solutions/implementation-II.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+        </tr>
+        <tr>
+<td>Bit Manipulation</td>
+<td align="center">15 problems</td>
+<td><a href="/level-2/hackerrank/data-structures/solutions/bit-manipulation.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+<td>Math Fundamentals I</td>
+<td align="center">15 problems</td>
+<td><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-I.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+        </tr>
+        <tr>
+<td>Advanced</td>
+<td align="center">20 problems</td>
+<td><a href="/level-2/hackerrank/data-structures/solutions/advanced.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+<td>Math Fundamentals II</td>
+<td align="center">15 problems</td>
+<td><a href="/level-2/hackerrank/algorithms-basics/solutions/math-fundamentals-II.md"><img align="center" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/success.png"></img></a></td>
+        </tr>
     </tbody>
 </table>
 
-<a href="/level-2/README.md/#leetcode-oj-sheets"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
+<a href="/level-2/README.md/#leetcode-oj-phases"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
 <br>
 
-## `LeetCode OJ sheets`
+## `LeetCode OJ phases`
 
-The LeetCode OJ sheets:
+The LeetCode OJ phases:
 [[linear-data-structures](/level-2/leetcode/linear-data-structures)],
 [[non-linear-data-structures](/level-2/leetcode/non-linear-data-structures)],
 [[basic-algorithms](/level-2/leetcode/basic-algorithms)],
 [[graph-theory](/level-2/leetcode/graph-theory)],
 [[interviews-questions-1](/level-2/leetcode/interviews-questions-1)],
 [[interviews-questions-2](/level-2/leetcode/interviews-questions-2)],
-These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). In addition to (String, Graph, BFS, DFS, Mathematics, Backtracking, and Dynamic Programming) problems. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~140 problems.
+These phases contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). In addition to (String, Graph, BFS, DFS, Mathematics, Backtracking, and Dynamic Programming) problems. These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~140 problems.
 
 <table>
     <thead>
@@ -159,15 +202,15 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
     </tbody>
 </table>
 
-<a href="/level-2/README.md/#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.png"></img></a>
+<a href="/level-2/README.md/#atcoder-oj-phases"><img align="right" width="80" src="/logos/atcoder.png"></img></a>
 <br>
 
-## `AtCoder OJ sheets`
+## `AtCoder OJ phases`
 
-The AtCoder OJ sheets:
+The AtCoder OJ phases:
 [[phase-2-1](/level-2/atcoder/phase-2-1)],
 [[phase-2-2](/level-2/atcoder/phase-2-2)],
-These sheets contain regular contests (medium contests) and each sheet contains ~100 problems.
+These phases contain regular contests (medium contests) and each sheet contains ~100 problems.
 
 <table>
     <thead>
@@ -190,17 +233,17 @@ These sheets contain regular contests (medium contests) and each sheet contains 
     </tbody>
 </table>
 
-<a href="/level-2/README.md/#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.png"></img></a>
+<a href="/level-2/README.md/#codeforces-oj-phases"><img align="right" width="80" src="/logos/codeforces.png"></img></a>
 <br>
 
-## `Codeforces OJ sheets`
+## `Codeforces OJ phases`
 
-The Codeforces OJ sheets:
+The Codeforces OJ phases:
 [[phase-2-1](/level-2/codeforces/phase-2-1)],
 [[phase-2-2](/level-2/codeforces/phase-2-2)],
 [[phase-2-3](/level-2/codeforces/phase-2-3)],
 [[phase-2-4](/level-2/codeforces/phase-2-4)],
-each sheet of them contains B-Div2 problems and divided into (Data Structure - Mathematics - String - Greedy - Brute Force). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
+each sheet of them contains B-Div2 problems and divided into (Data Structure - Mathematics - String - Greedy - Brute Force). These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~120 problems.
 [[div3-div4-contests](/level-2/codeforces/div3-div4-contests)] that focus on div3 + div4 contests (easy contests) and contains ~85 contests, and
 [[educational-contests](/level-2/codeforces/educational-contests)], that focus on educational-contests (medium contests) and contains ~125 contests.
 
@@ -267,22 +310,22 @@ each sheet of them contains B-Div2 problems and divided into (Data Structure - M
     </tbody>
 </table>
 
-For the last 3 optional sheets:
+For the last 3 optional phases:
 [[gym-contests-1](/level-2/codeforces/gym-contests-1)],
 [[gym-contests-2](/level-2/codeforces/gym-contests-2)],
 [[gym-contests-3](/level-2/codeforces/gym-contests-3)] that focus on gym-contests that contains ~150 contests.
 
-<a href="/level-2/README.md/#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.png"></img></a>
+<a href="/level-2/README.md/#hackerearth-oj-phases"><img align="right" width="80" src="/logos/hackerearth.png"></img></a>
 <br>
 
-## `HackerEarth OJ sheets`
+## `HackerEarth OJ phases`
 
-The HackerEarth OJ sheets:
+The HackerEarth OJ phases:
 [[linear-data-structures](/level-2/hackerearth/linear-data-structures)],
 [[non-linear-data-structures](/level-2/hackerearth/non-linear-data-structures)],
 [[algorithms-searching](/level-2/hackerearth/algorithms-searching)],
 [[algorithms-sorting](/level-2/hackerearth/algorithms-sorting)],
-each sheet of them contains linear and non-linear data structures problems, plus searching and sorting algorithms. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~100 problems.
+each sheet of them contains linear and non-linear data structures problems, plus searching and sorting algorithms. These phases were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~100 problems.
 
 <table>
     <thead>
@@ -329,6 +372,6 @@ each sheet of them contains linear and non-linear data structures problems, plus
 
 ## `Notes`
 
-* The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the sheet is done if you solved at least 30% of the sheet problems, finally you can say that the level is done if you solved at least 6 sheets.
+* The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the sheet is done if you solved at least 30% of the sheet problems, finally you can say that the level is done if you solved at least 6 phases.
 
 <br>
