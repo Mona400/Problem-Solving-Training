@@ -10,10 +10,10 @@ Problem Solving Training for computer science students.
 
 ## Table of Contents
   * [Prerequisite Knowledge](#prerequisite-knowledge)
-  * [HackerRank Online Judge Sheets](#hackerrank-oj-phases)
-  * [AtCoder Online Judge Sheets](#atcoder-oj-phases)
-  * [Codeforces Online Judge Sheets](#codeforces-oj-phases)
-  * [HackerEarth Online Judge Sheets](#hackerearth-oj-phases)
+  * [HackerRank Online Judge Phases](#hackerrank-oj-phases)
+  * [AtCoder Online Judge Phases](#atcoder-oj-phases)
+  * [Codeforces Online Judge Phases](#codeforces-oj-phases)
+  * [HackerEarth Online Judge Phases](#hackerearth-oj-phases)
   * [Notes](#notes)
 
 <br><br><br><br>
