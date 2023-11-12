@@ -16,10 +16,10 @@ Problem Solving Training for computer science students.
         </tr>
     </thead>
     <tbody>
-        <tr><td><a href="/level-1/README.md#hackerrank-oj-sheets"> <img align="center" src="/logos/level-1-hackerrank.png"></img></a></td>
-            <td><a href="/level-1/README.md#atcoder-oj-sheets">    <img align="center" src="/logos/level-1-atcoder.png"></img></a></td></tr>
-        <tr><td><a href="/level-1/README.md#hackerearth-oj-sheets"><img align="center" src="/logos/level-1-hackerearth.png"></img></a></td>
-            <td><a href="/level-1/README.md#codeforces-oj-sheets"> <img align="center" src="/logos/level-1-codeforces.png"></img></a></td></tr>
+        <tr><td><a href="/level-1/README.md#hackerrank-oj-phases"> <img align="center" src="/logos/level-1-hackerrank.png"></img></a></td>
+            <td><a href="/level-1/README.md#atcoder-oj-phases">    <img align="center" src="/logos/level-1-atcoder.png"></img></a></td></tr>
+        <tr><td><a href="/level-1/README.md#hackerearth-oj-phases"><img align="center" src="/logos/level-1-hackerearth.png"></img></a></td>
+            <td><a href="/level-1/README.md#codeforces-oj-phases"> <img align="center" src="/logos/level-1-codeforces.png"></img></a></td></tr>
     </tbody>
 </table>
 
@@ -35,11 +35,11 @@ Problem Solving Training for computer science students.
         </tr>
     </thead>
     <tbody>
-        <tr><td><a href="/level-2/README.md#hackerrank-oj-sheets"> <img align="center" src="/logos/level-2-hackerrank.png"></img></a></td>
-            <td><a href="/level-2/README.md#atcoder-oj-sheets">    <img align="center" src="/logos/level-2-atcoder.png"></img></a></td></tr>
-        <tr><td><a href="/level-2/README.md#leetcode-oj-sheets">   <img align="center" src="/logos/level-2-leetcode.png"></img></a></td>
-            <td><a href="/level-2/README.md#codeforces-oj-sheets"> <img align="center" src="/logos/level-2-codeforces.png"></img></a></td></tr>
-        <tr><td><a href="/level-2/README.md#hackerearth-oj-sheets"><img align="center" src="/logos/level-2-hackerearth.png"></img></a></td>
+        <tr><td><a href="/level-2/README.md#hackerrank-oj-phases"> <img align="center" src="/logos/level-2-hackerrank.png"></img></a></td>
+            <td><a href="/level-2/README.md#atcoder-oj-phases">    <img align="center" src="/logos/level-2-atcoder.png"></img></a></td></tr>
+        <tr><td><a href="/level-2/README.md#leetcode-oj-phases">   <img align="center" src="/logos/level-2-leetcode.png"></img></a></td>
+            <td><a href="/level-2/README.md#codeforces-oj-phases"> <img align="center" src="/logos/level-2-codeforces.png"></img></a></td></tr>
+        <tr><td><a href="/level-2/README.md#hackerearth-oj-phases"><img align="center" src="/logos/level-2-hackerearth.png"></img></a></td>
         </tr>
     </tbody>
 </table>
@@ -56,11 +56,11 @@ Problem Solving Training for computer science students.
         </tr>
     </thead>
     <tbody>
-        <tr><td><a href="/level-3/README.md#hackerrank-oj-sheets"> <img align="center" src="/logos/level-3-hackerrank.png"></img></a></td>
-            <td><a href="/level-3/README.md#atcoder-oj-sheets">    <img align="center" src="/logos/level-3-atcoder.png"></img></a></td></tr>
-        <tr><td><a href="/level-3/README.md#leetcode-oj-sheets">   <img align="center" src="/logos/level-3-leetcode.png"></img></a></td>
-            <td><a href="/level-3/README.md#codeforces-oj-sheets"> <img align="center" src="/logos/level-3-codeforces.png"></img></a></td></tr>
-        <tr><td><a href="/level-3/README.md#hackerearth-oj-sheets"><img align="center" src="/logos/level-3-hackerearth.png"></img></a></td>
+        <tr><td><a href="/level-3/README.md#hackerrank-oj-phases"> <img align="center" src="/logos/level-3-hackerrank.png"></img></a></td>
+            <td><a href="/level-3/README.md#atcoder-oj-phases">    <img align="center" src="/logos/level-3-atcoder.png"></img></a></td></tr>
+        <tr><td><a href="/level-3/README.md#leetcode-oj-phases">   <img align="center" src="/logos/level-3-leetcode.png"></img></a></td>
+            <td><a href="/level-3/README.md#codeforces-oj-phases"> <img align="center" src="/logos/level-3-codeforces.png"></img></a></td></tr>
+        <tr><td><a href="/level-3/README.md#hackerearth-oj-phases"><img align="center" src="/logos/level-3-hackerearth.png"></img></a></td>
         </tr>
     </tbody>
 </table>
