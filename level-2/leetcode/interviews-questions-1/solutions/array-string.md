@@ -7,29 +7,31 @@ Problem Link: https://leetcode.com/problems/majority-element
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 
 ```
 
 </details>
+<br>
 
 ## Jump Game
 Problem Link: https://leetcode.com/problems/jump-game
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -42,9 +44,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -61,13 +64,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## product of array except self
 Problem Link: https://leetcode.com/problems/product-of-array-except-self
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -83,9 +87,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -105,13 +110,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## search a 2d matrix ii
 Problem Link: https://leetcode.com/problems/search-a-2d-matrix-ii
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -129,9 +135,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -153,13 +160,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## spiral matrix
 Problem Link: https://leetcode.com/problems/spiral-matrix
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -184,9 +192,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -217,13 +226,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## rotate image
 Problem Link: https://leetcode.com/problems/rotate-image
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -239,9 +249,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -262,13 +273,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## set matrix zeroes
 Problem Link: https://leetcode.com/problems/set-matrix-zeroes
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -287,9 +299,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -315,13 +328,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## add two numbers
 Problem Link: https://leetcode.com/problems/add-two-numbers
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -340,9 +354,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -365,13 +380,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## sort colors
 Problem Link: https://leetcode.com/problems/sort-colors
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -399,9 +415,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -434,13 +451,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## find the duplicate number
 Problem Link: https://leetcode.com/problems/find-the-duplicate-number
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -461,9 +479,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -489,13 +508,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## first missing positive
 Problem Link: https://leetcode.com/problems/first-missing-positive
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -517,9 +537,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -548,13 +569,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## best time to buy and sell stock
 Problem Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -572,9 +594,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -595,13 +618,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## missing number
 Problem Link: https://leetcode.com/problems/missing-number
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -611,9 +635,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -626,13 +651,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## find all numbers disappeared in an array
 Problem Link: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -646,9 +672,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -666,13 +693,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## squares of a sorted array
 Problem Link: https://leetcode.com/problems/squares-of-a-sorted-array
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -681,9 +709,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -699,13 +728,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## convert 1d array into 2d array
 Problem Link: https://leetcode.com/problems/convert-1d-array-into-2d-array
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -719,9 +749,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -740,13 +771,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## find all duplicates in an array
 Problem Link: https://leetcode.com/problems/find-all-duplicates-in-an-array
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -761,9 +793,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -782,13 +815,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## fruit into baskets
 Problem Link: https://leetcode.com/problems/fruit-into-baskets
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -807,9 +841,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -833,13 +868,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## 3sum closest
 Problem Link: https://leetcode.com/problems/3sum-closest
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -864,9 +900,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -896,13 +933,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## subarray product less than k
 Problem Link: https://leetcode.com/problems/subarray-product-less-than-k
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -918,9 +956,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -941,13 +980,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## count unique characters of all substrings of a given string
 Problem Link: https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -965,9 +1005,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -992,13 +1033,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## course schedule iii
 Problem Link: https://leetcode.com/problems/course-schedule-iii
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 import queue
@@ -1017,9 +1059,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -1043,25 +1086,28 @@ public:
 ```
 
 </details>
+<br>
 
 ## meeting rooms
 Problem Link: https://leetcode.com/problems/meeting-rooms
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 
 ```
 
 </details>
+<br>

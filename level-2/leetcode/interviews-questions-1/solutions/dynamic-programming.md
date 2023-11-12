@@ -7,7 +7,7 @@ Problem Link: https://leetcode.com/problems/climbing-stairs
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -20,9 +20,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -38,13 +39,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## house robber
 Problem Link: https://leetcode.com/problems/house-robber
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -58,9 +60,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -78,13 +81,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## word break
 Problem Link: https://leetcode.com/problems/word-break
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -99,9 +103,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -121,13 +126,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## coin change
 Problem Link: https://leetcode.com/problems/coin-change
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -144,9 +150,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -168,13 +175,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## longest increasing subsequence
 Problem Link: https://leetcode.com/problems/longest-increasing-subsequence
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -188,9 +196,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -209,13 +218,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## longest palindromic substring
 Problem Link: https://leetcode.com/problems/longest-palindromic-substring
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -239,9 +249,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -272,13 +283,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## maximum product subarray
 Problem Link: https://leetcode.com/problems/maximum-product-subarray
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -294,9 +306,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -317,13 +330,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## unique paths
 Problem Link: https://leetcode.com/problems/unique-paths
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -338,9 +352,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -360,13 +375,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## partition equal subset sum
 Problem Link: https://leetcode.com/problems/partition-equal-subset-sum
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -386,9 +402,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -412,13 +429,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## range sum query immutable
 Problem Link: https://leetcode.com/problems/range-sum-query-immutable
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class NumArray:
@@ -433,9 +451,10 @@ class NumArray:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class NumArray {
@@ -454,13 +473,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## counting bits
 Problem Link: https://leetcode.com/problems/counting-bits
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -477,9 +497,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -501,13 +522,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## house robber ii
 Problem Link: https://leetcode.com/problems/house-robber-ii
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -526,9 +548,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -552,13 +575,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## combination sum iv
 Problem Link: https://leetcode.com/problems/combination-sum-iv
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -573,9 +597,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -596,13 +621,14 @@ public:
 `TODO` RUN-TIME ERROR
 
 </details>
+<br>
 
 ## decode ways
 Problem Link: https://leetcode.com/problems/decode-ways
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -624,9 +650,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -653,13 +680,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## palindromic substrings
 Problem Link: https://leetcode.com/problems/palindromic-substrings
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -680,9 +708,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -708,3 +737,4 @@ public:
 ```
 
 </details>
+<br>

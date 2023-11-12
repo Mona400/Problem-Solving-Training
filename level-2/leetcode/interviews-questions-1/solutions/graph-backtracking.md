@@ -7,7 +7,7 @@ Problem Link: https://leetcode.com/problems/clone-graph
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -26,9 +26,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -51,13 +52,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## course schedule ii
 Problem Link: https://leetcode.com/problems/course-schedule-ii
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -88,9 +90,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -127,13 +130,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## number of islands
 Problem Link: https://leetcode.com/problems/number-of-islands
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -159,9 +163,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -195,13 +200,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## course schedule
 Problem Link: https://leetcode.com/problems/course-schedule
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -230,9 +236,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -266,13 +273,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## subsets
 Problem Link: https://leetcode.com/problems/subsets
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -289,9 +297,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -312,13 +321,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## palindrome partitioning
 Problem Link: https://leetcode.com/problems/palindrome-partitioning
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -343,9 +353,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -379,13 +390,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## n queens
 Problem Link: https://leetcode.com/problems/n-queens
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -418,9 +430,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -461,13 +474,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## letter combinations of a phone number
 Problem Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -488,9 +502,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -516,13 +531,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## combinations
 Problem Link: https://leetcode.com/problems/combinations
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -542,9 +558,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -570,13 +587,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## permutations
 Problem Link: https://leetcode.com/problems/permutations
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -597,9 +615,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -632,35 +651,38 @@ public:
 ```
 
 </details>
+<br>
 
 ## sort items by groups respecting dependencies
 Problem Link: https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 
 ```
 
 </details>
+<br>
 
 ## letter case permutation
 Problem Link: https://leetcode.com/problems/letter-case-permutation
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -678,9 +700,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -704,13 +727,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## permutations ii
 Problem Link: https://leetcode.com/problems/permutations-ii
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -732,9 +756,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -770,13 +795,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## combination sum ii
 Problem Link: https://leetcode.com/problems/combination-sum-ii
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -803,9 +829,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -839,13 +866,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## combination sum iii
 Problem Link: https://leetcode.com/problems/combination-sum-iii
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -867,9 +895,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -898,13 +927,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## target sum
 Problem Link: https://leetcode.com/problems/target-sum
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -924,9 +954,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -951,35 +982,38 @@ public:
 ```
 
 </details>
+<br>
 
 ## generalized abbreviation
 Problem Link: https://leetcode.com/problems/generalized-abbreviation
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 
 ```
 
 </details>
+<br>
 
 ## pacific atlantic water flow
 Problem Link: https://leetcode.com/problems/pacific-atlantic-water-flow
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -1006,9 +1040,10 @@ class Solution:
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -1048,47 +1083,52 @@ public:
 ```
 
 </details>
+<br>
 
 ## graph valid tree
 Problem Link: https://leetcode.com/problems/graph-valid-tree
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 
 ```
 
 </details>
+<br>
 
 ## number of connected components in an undirected graph
 Problem Link: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 
 ```
 
 </details>
+<br>
 <a href="/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 
 ```
 
 </details>
+<br>
